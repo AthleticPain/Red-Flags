@@ -279,6 +279,66 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 19202234, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.57254905
+      objectReference: {fileID: 0}
+    - target: {fileID: 19202234, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.19215688
+      objectReference: {fileID: 0}
+    - target: {fileID: 19202234, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.18039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 52941470, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 254703784, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.57254905
+      objectReference: {fileID: 0}
+    - target: {fileID: 254703784, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.19215688
+      objectReference: {fileID: 0}
+    - target: {fileID: 254703784, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.18039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 983896398, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321122983, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.57254905
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321122983, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.19215688
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321122983, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.18039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801242925, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.57254905
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801242925, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.19215688
+      objectReference: {fileID: 0}
+    - target: {fileID: 1801242925, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.18039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 2119167092, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 775880264530527568, guid: 714399eb9c02dd847bf7c915ee6dc4a6, type: 3}
       propertyPath: m_Name
       value: MenuController

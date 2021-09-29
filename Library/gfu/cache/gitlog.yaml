@@ -1,0 +1,1747 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-09-29T22:18:37.690+05:30
+  initializedAtString: 2021-09-29T22:18:37.690+05:30
+  log:
+  - commitID: 669fa4d8cdcc7fb8cc5bf96b97bcecbb58fb9582
+    mergeA: 
+    mergeB: 
+    authorName: Ashank Rajendran
+    authorEmail: ashankrajendran@gmail.com
+    commitEmail: ashankrajendran@gmail.com
+    commitName: Ashank Rajendran
+    summary: Initial Unity Project Commit
+    description: Storing all the project files for Red Flags
+    timeString: 2021-09-29T21:09:50.000+05:30
+    commitTimeString: 2021-09-29T21:09:50.000+05:30
+    changes:
+    - path: .vsconfig
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation.meta
+      projectPath: Assets\Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animations.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animations.meta
+      projectPath: Assets\Animation\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animations\Red Flag Spawn Animation.anim
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animations\Red
+        Flag Spawn Animation.anim
+      projectPath: Assets\Animation\Animations\Red Flag Spawn Animation.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animations\Red Flag Spawn Animation.anim.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animations\Red
+        Flag Spawn Animation.anim.meta
+      projectPath: Assets\Animation\Animations\Red Flag Spawn Animation.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animator Controllers.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animator
+        Controllers.meta
+      projectPath: Assets\Animation\Animator Controllers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animator Controllers\Red Flag Animation Controller.controller
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animator
+        Controllers\Red Flag Animation Controller.controller
+      projectPath: Assets\Animation\Animator Controllers\Red Flag Animation Controller.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Animator Controllers\Red Flag Animation Controller.controller.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Animation\Animator
+        Controllers\Red Flag Animation Controller.controller.meta
+      projectPath: Assets\Animation\Animator Controllers\Red Flag Animation Controller.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Wild Nature.ttf
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Fonts\Wild Nature.ttf
+      projectPath: Assets\Fonts\Wild Nature.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Wild Nature.ttf.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Fonts\Wild Nature.ttf.meta
+      projectPath: Assets\Fonts\Wild Nature.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images.meta
+      projectPath: Assets\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Dice.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Dice.png
+      projectPath: Assets\Images\Dice.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Dice.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Dice.png.meta
+      projectPath: Assets\Images\Dice.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Land blank card.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Land blank
+        card.png
+      projectPath: Assets\Images\Land blank card.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Land blank card.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Land blank
+        card.png.meta
+      projectPath: Assets\Images\Land blank card.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Melting back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Melting back
+        single.png
+      projectPath: Assets\Images\Melting back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Melting back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Melting back
+        single.png.meta
+      projectPath: Assets\Images\Melting back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Mixed back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Mixed back
+        single.png
+      projectPath: Assets\Images\Mixed back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Mixed back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Mixed back
+        single.png.meta
+      projectPath: Assets\Images\Mixed back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Pawn Flags.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Pawn Flags.png
+      projectPath: Assets\Images\Pawn Flags.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Pawn Flags.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Pawn Flags.png.meta
+      projectPath: Assets\Images\Pawn Flags.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards Back Card 4.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards Back
+        Card 4.png
+      projectPath: Assets\Images\Rewards Back Card 4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards Back Card 4.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards Back
+        Card 4.png.meta
+      projectPath: Assets\Images\Rewards Back Card 4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single 2.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single 2.png
+      projectPath: Assets\Images\Rewards back single 2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single 2.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single 2.png.meta
+      projectPath: Assets\Images\Rewards back single 2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single 3.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single 3.png
+      projectPath: Assets\Images\Rewards back single 3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single 3.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single 3.png.meta
+      projectPath: Assets\Images\Rewards back single 3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single.png
+      projectPath: Assets\Images\Rewards back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards back
+        single.png.meta
+      projectPath: Assets\Images\Rewards back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards blank card.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards blank
+        card.png
+      projectPath: Assets\Images\Rewards blank card.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Rewards blank card.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Rewards blank
+        card.png.meta
+      projectPath: Assets\Images\Rewards blank card.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Water blank card.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Water blank
+        card.png
+      projectPath: Assets\Images\Water blank card.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Water blank card.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Water blank
+        card.png.meta
+      projectPath: Assets\Images\Water blank card.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\White Blank Card.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\White Blank
+        Card.png
+      projectPath: Assets\Images\White Blank Card.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\White Blank Card.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\White Blank
+        Card.png.meta
+      projectPath: Assets\Images\White Blank Card.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Wind blank card.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Wind blank
+        card.png
+      projectPath: Assets\Images\Wind blank card.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Wind blank card.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\Wind blank
+        card.png.meta
+      projectPath: Assets\Images\Wind blank card.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\box design.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\box design.png
+      projectPath: Assets\Images\box design.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\box design.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\box design.png.meta
+      projectPath: Assets\Images\box design.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\earth board Transparent.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\earth board
+        Transparent.png
+      projectPath: Assets\Images\earth board Transparent.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\earth board Transparent.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\earth board
+        Transparent.png.meta
+      projectPath: Assets\Images\earth board Transparent.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\earth board.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\earth board.png
+      projectPath: Assets\Images\earth board.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\earth board.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\earth board.png.meta
+      projectPath: Assets\Images\earth board.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\land back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\land back
+        single.png
+      projectPath: Assets\Images\land back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\land back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\land back
+        single.png.meta
+      projectPath: Assets\Images\land back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\quest board without BG.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\quest board
+        without BG.png
+      projectPath: Assets\Images\quest board without BG.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\quest board without BG.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\quest board
+        without BG.png.meta
+      projectPath: Assets\Images\quest board without BG.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\quest board.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\quest board.png
+      projectPath: Assets\Images\quest board.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\quest board.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\quest board.png.meta
+      projectPath: Assets\Images\quest board.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rewards front.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\rewards front.png
+      projectPath: Assets\Images\rewards front.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rewards front.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\rewards front.png.meta
+      projectPath: Assets\Images\rewards front.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\water back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\water back
+        single.png
+      projectPath: Assets\Images\water back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\water back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\water back
+        single.png.meta
+      projectPath: Assets\Images\water back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\wind back single.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\wind back
+        single.png
+      projectPath: Assets\Images\wind back single.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\wind back single.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Images\wind back
+        single.png.meta
+      projectPath: Assets\Images\wind back single.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Background.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Background.prefab
+      projectPath: Assets\Prefabs\Background.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Background.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Background.prefab.meta
+      projectPath: Assets\Prefabs\Background.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BoardController.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\BoardController.prefab
+      projectPath: Assets\Prefabs\BoardController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BoardController.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\BoardController.prefab.meta
+      projectPath: Assets\Prefabs\BoardController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Canvas.prefab
+      projectPath: Assets\Prefabs\Canvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Canvas.prefab.meta
+      projectPath: Assets\Prefabs\Canvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Cards.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Cards.prefab
+      projectPath: Assets\Prefabs\Cards.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Cards.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Cards.prefab.meta
+      projectPath: Assets\Prefabs\Cards.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Die 1.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Die 1.prefab
+      projectPath: Assets\Prefabs\Die 1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Die 1.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Die 1.prefab.meta
+      projectPath: Assets\Prefabs\Die 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Earth Board.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Earth Board.prefab
+      projectPath: Assets\Prefabs\Earth Board.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Earth Board.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Earth Board.prefab.meta
+      projectPath: Assets\Prefabs\Earth Board.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EarthBoardController.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\EarthBoardController.prefab
+      projectPath: Assets\Prefabs\EarthBoardController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\EarthBoardController.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\EarthBoardController.prefab.meta
+      projectPath: Assets\Prefabs\EarthBoardController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Game End Canvas.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Game End
+        Canvas.prefab
+      projectPath: Assets\Prefabs\Game End Canvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Game End Canvas.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Game End
+        Canvas.prefab.meta
+      projectPath: Assets\Prefabs\Game End Canvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\GameController.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\GameController.prefab
+      projectPath: Assets\Prefabs\GameController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\GameController.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\GameController.prefab.meta
+      projectPath: Assets\Prefabs\GameController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses.meta
+      projectPath: Assets\Prefabs\LandMasses.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Africa.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Africa.prefab
+      projectPath: Assets\Prefabs\LandMasses\Africa.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Africa.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Africa.prefab.meta
+      projectPath: Assets\Prefabs\LandMasses\Africa.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Eurasia.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Eurasia.prefab
+      projectPath: Assets\Prefabs\LandMasses\Eurasia.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Eurasia.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Eurasia.prefab.meta
+      projectPath: Assets\Prefabs\LandMasses\Eurasia.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Greenland.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Greenland.prefab
+      projectPath: Assets\Prefabs\LandMasses\Greenland.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\Greenland.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\Greenland.prefab.meta
+      projectPath: Assets\Prefabs\LandMasses\Greenland.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\North America.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\North
+        America.prefab
+      projectPath: Assets\Prefabs\LandMasses\North America.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\North America.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\North
+        America.prefab.meta
+      projectPath: Assets\Prefabs\LandMasses\North America.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\South America.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\South
+        America.prefab
+      projectPath: Assets\Prefabs\LandMasses\South America.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LandMasses\South America.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LandMasses\South
+        America.prefab.meta
+      projectPath: Assets\Prefabs\LandMasses\South America.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LevelLoader.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LevelLoader.prefab
+      projectPath: Assets\Prefabs\LevelLoader.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LevelLoader.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\LevelLoader.prefab.meta
+      projectPath: Assets\Prefabs\LevelLoader.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Main Board.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Main Board.prefab
+      projectPath: Assets\Prefabs\Main Board.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Main Board.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Main Board.prefab.meta
+      projectPath: Assets\Prefabs\Main Board.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\MenuController.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\MenuController.prefab
+      projectPath: Assets\Prefabs\MenuController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\MenuController.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\MenuController.prefab.meta
+      projectPath: Assets\Prefabs\MenuController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Pawn.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Pawn.prefab
+      projectPath: Assets\Prefabs\Pawn.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Pawn.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Pawn.prefab.meta
+      projectPath: Assets\Prefabs\Pawn.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 1 Variant.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 1
+        Variant.prefab
+      projectPath: Assets\Prefabs\Player 1 Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 1 Variant.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 1
+        Variant.prefab.meta
+      projectPath: Assets\Prefabs\Player 1 Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 2 Variant.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 2
+        Variant.prefab
+      projectPath: Assets\Prefabs\Player 2 Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 2 Variant.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 2
+        Variant.prefab.meta
+      projectPath: Assets\Prefabs\Player 2 Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 3 Variant.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 3
+        Variant.prefab
+      projectPath: Assets\Prefabs\Player 3 Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 3 Variant.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 3
+        Variant.prefab.meta
+      projectPath: Assets\Prefabs\Player 3 Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 4 Variant.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 4
+        Variant.prefab
+      projectPath: Assets\Prefabs\Player 4 Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 4 Variant.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 4
+        Variant.prefab.meta
+      projectPath: Assets\Prefabs\Player 4 Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 5 Variant.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 5
+        Variant.prefab
+      projectPath: Assets\Prefabs\Player 5 Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player 5 Variant.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 5
+        Variant.prefab.meta
+      projectPath: Assets\Prefabs\Player 5 Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player Details Canvas.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player Details
+        Canvas.prefab
+      projectPath: Assets\Prefabs\Player Details Canvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player Details Canvas.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player Details
+        Canvas.prefab.meta
+      projectPath: Assets\Prefabs\Player Details Canvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards.meta
+      projectPath: Assets\Prefabs\QuestionCards.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 1.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 1.prefab
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 1.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 1.prefab.meta
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 2.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 2.prefab
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 2.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 2.prefab.meta
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 3.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 3.prefab
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 3.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\QuestionCards\Question Card 3.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
+        Card 3.prefab.meta
+      projectPath: Assets\Prefabs\QuestionCards\Question Card 3.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Red Flag.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Red Flag.prefab
+      projectPath: Assets\Prefabs\Red Flag.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Red Flag.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Red Flag.prefab.meta
+      projectPath: Assets\Prefabs\Red Flag.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Rewards.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Rewards.meta
+      projectPath: Assets\Prefabs\Rewards.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Rewards\Reward Card 1.prefab
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Rewards\Reward
+        Card 1.prefab
+      projectPath: Assets\Prefabs\Rewards\Reward Card 1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Rewards\Reward Card 1.prefab.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Rewards\Reward
+        Card 1.prefab.meta
+      projectPath: Assets\Prefabs\Rewards\Reward Card 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Card Questions.unity
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Card Questions.unity
+      projectPath: Assets\Scenes\Card Questions.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Card Questions.unity.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Card Questions.unity.meta
+      projectPath: Assets\Scenes\Card Questions.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main Game Scene.unity
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Main Game
+        Scene.unity
+      projectPath: Assets\Scenes\Main Game Scene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main Game Scene.unity.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Main Game
+        Scene.unity.meta
+      projectPath: Assets\Scenes\Main Game Scene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main Menu.unity
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Main Menu.unity
+      projectPath: Assets\Scenes\Main Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main Menu.unity.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Main Menu.unity.meta
+      projectPath: Assets\Scenes\Main Menu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Start Game Menu.unity
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Start Game
+        Menu.unity
+      projectPath: Assets\Scenes\Start Game Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Start Game Menu.unity.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\Start Game
+        Menu.unity.meta
+      projectPath: Assets\Scenes\Start Game Menu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TEST.unity
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\TEST.unity
+      projectPath: Assets\Scenes\TEST.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\TEST.unity.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scenes\TEST.unity.meta
+      projectPath: Assets\Scenes\TEST.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\BoardController.cs
+      projectPath: Assets\Scripts\BoardController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\BoardController.cs.meta
+      projectPath: Assets\Scripts\BoardController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ButtonTester.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\ButtonTester.cs
+      projectPath: Assets\Scripts\ButtonTester.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ButtonTester.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\ButtonTester.cs.meta
+      projectPath: Assets\Scripts\ButtonTester.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Card.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Card.cs
+      projectPath: Assets\Scripts\Card.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Card.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Card.cs.meta
+      projectPath: Assets\Scripts\Card.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CardController.cs
+      projectPath: Assets\Scripts\CardController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CardController.cs.meta
+      projectPath: Assets\Scripts\CardController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardText.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CardText.cs
+      projectPath: Assets\Scripts\CardText.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardText.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CardText.cs.meta
+      projectPath: Assets\Scripts\CardText.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CatastropheSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CatastropheSpace.cs
+      projectPath: Assets\Scripts\CatastropheSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CatastropheSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\CatastropheSpace.cs.meta
+      projectPath: Assets\Scripts\CatastropheSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dice.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Dice.cs
+      projectPath: Assets\Scripts\Dice.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dice.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Dice.cs.meta
+      projectPath: Assets\Scripts\Dice.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EarthBoardController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\EarthBoardController.cs
+      projectPath: Assets\Scripts\EarthBoardController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EarthBoardController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\EarthBoardController.cs.meta
+      projectPath: Assets\Scripts\EarthBoardController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameController.cs
+      projectPath: Assets\Scripts\GameController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameController.cs.meta
+      projectPath: Assets\Scripts\GameController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameEndCanvas.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameEndCanvas.cs
+      projectPath: Assets\Scripts\GameEndCanvas.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameEndCanvas.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameEndCanvas.cs.meta
+      projectPath: Assets\Scripts\GameEndCanvas.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameSettingsController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameSettingsController.cs
+      projectPath: Assets\Scripts\GameSettingsController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameSettingsController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameSettingsController.cs.meta
+      projectPath: Assets\Scripts\GameSettingsController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\InstructionCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\InstructionCard.cs
+      projectPath: Assets\Scripts\InstructionCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\InstructionCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\InstructionCard.cs.meta
+      projectPath: Assets\Scripts\InstructionCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandCard.cs
+      projectPath: Assets\Scripts\LandCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandCard.cs.meta
+      projectPath: Assets\Scripts\LandCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMass.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMass.cs
+      projectPath: Assets\Scripts\LandMass.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMass.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMass.cs.meta
+      projectPath: Assets\Scripts\LandMass.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMassButton.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMassButton.cs
+      projectPath: Assets\Scripts\LandMassButton.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMassButton.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMassButton.cs.meta
+      projectPath: Assets\Scripts\LandMassButton.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMassController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMassController.cs
+      projectPath: Assets\Scripts\LandMassController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandMassController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandMassController.cs.meta
+      projectPath: Assets\Scripts\LandMassController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandSpace.cs
+      projectPath: Assets\Scripts\LandSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LandSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LandSpace.cs.meta
+      projectPath: Assets\Scripts\LandSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelLoader.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LevelLoader.cs
+      projectPath: Assets\Scripts\LevelLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelLoader.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LevelLoader.cs.meta
+      projectPath: Assets\Scripts\LevelLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainCanvas.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MainCanvas.cs
+      projectPath: Assets\Scripts\MainCanvas.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainCanvas.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MainCanvas.cs.meta
+      projectPath: Assets\Scripts\MainCanvas.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MenuController.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MenuController.cs
+      projectPath: Assets\Scripts\MenuController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MenuController.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MenuController.cs.meta
+      projectPath: Assets\Scripts\MenuController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MixedSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MixedSpace.cs
+      projectPath: Assets\Scripts\MixedSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MixedSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\MixedSpace.cs.meta
+      projectPath: Assets\Scripts\MixedSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Pawn.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Pawn.cs
+      projectPath: Assets\Scripts\Pawn.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Pawn.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Pawn.cs.meta
+      projectPath: Assets\Scripts\Pawn.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerInfoDisplay.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\PlayerInfoDisplay.cs
+      projectPath: Assets\Scripts\PlayerInfoDisplay.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerInfoDisplay.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\PlayerInfoDisplay.cs.meta
+      projectPath: Assets\Scripts\PlayerInfoDisplay.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlusTenSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\PlusTenSpace.cs
+      projectPath: Assets\Scripts\PlusTenSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlusTenSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\PlusTenSpace.cs.meta
+      projectPath: Assets\Scripts\PlusTenSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\QuestionCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\QuestionCard.cs
+      projectPath: Assets\Scripts\QuestionCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\QuestionCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\QuestionCard.cs.meta
+      projectPath: Assets\Scripts\QuestionCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RewardCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RewardCard.cs
+      projectPath: Assets\Scripts\RewardCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RewardCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RewardCard.cs.meta
+      projectPath: Assets\Scripts\RewardCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RewardSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RewardSpace.cs
+      projectPath: Assets\Scripts\RewardSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RewardSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RewardSpace.cs.meta
+      projectPath: Assets\Scripts\RewardSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RoundInfoDisplay.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RoundInfoDisplay.cs
+      projectPath: Assets\Scripts\RoundInfoDisplay.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RoundInfoDisplay.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\RoundInfoDisplay.cs.meta
+      projectPath: Assets\Scripts\RoundInfoDisplay.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WaterCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WaterCard.cs
+      projectPath: Assets\Scripts\WaterCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WaterCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WaterCard.cs.meta
+      projectPath: Assets\Scripts\WaterCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WaterSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WaterSpace.cs
+      projectPath: Assets\Scripts\WaterSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WaterSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WaterSpace.cs.meta
+      projectPath: Assets\Scripts\WaterSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Waypoint.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Waypoint.cs
+      projectPath: Assets\Scripts\Waypoint.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Waypoint.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\Waypoint.cs.meta
+      projectPath: Assets\Scripts\Waypoint.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WindCard.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WindCard.cs
+      projectPath: Assets\Scripts\WindCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WindCard.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WindCard.cs.meta
+      projectPath: Assets\Scripts\WindCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WindSpace.cs
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WindSpace.cs
+      projectPath: Assets\Scripts\WindSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\WindSpace.cs.meta
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\WindSpace.cs.meta
+      projectPath: Assets\Scripts\WindSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 1917607e4fcbaeb28682764a663446e413caaa53
+    mergeA: 
+    mergeB: 
+    authorName: Ashank Rajendran
+    authorEmail: ashankrajendran@gmail.com
+    commitEmail: ashankrajendran@gmail.com
+    commitName: Ashank Rajendran
+    summary: Initial commit
+    description: 
+    timeString: 2021-09-29T20:58:21.000+05:30
+    commitTimeString: 2021-09-29T20:58:21.000+05:30
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\Ashank\Unity Projects\Red Flags\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

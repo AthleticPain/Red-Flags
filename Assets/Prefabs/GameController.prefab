@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6483bb3e09495294cb3d2e99f9051702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfPlayers: 4
+  numberOfPlayers: 1
   pawnPrefabs:
   - {fileID: 3927921297382531180, guid: ee043f55e99e0344e8182a125de0b147, type: 3}
   - {fileID: 4971288345413221577, guid: d7715cb2716a78d419095e3acb48f4ec, type: 3}
