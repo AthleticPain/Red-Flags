@@ -13,44 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-01T17:50:30.945+05:30
-  initializedAtString: 2021-10-01T17:24:52.765+05:30
+  lastUpdatedAtString: 2021-10-01T18:04:53.383+05:30
+  initializedAtString: 2021-10-01T18:04:52.321+05:30
   entries:
-  - path: .vs\Red Flags\v16\.suo
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\.vs\Red Flags\v16\.suo
-    projectPath: .vs\Red Flags\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\Game End Canvas.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Game End Canvas.prefab
-    projectPath: Assets\Prefabs\Game End Canvas.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\Player 2 Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player 2 Variant.prefab
-    projectPath: Assets\Prefabs\Player 2 Variant.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - paints Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints
-      Variant.prefab
+  - path: Assets\Prefabs\Player Details Canvas.prefab
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Player Details
+      Canvas.prefab
+    projectPath: Assets\Prefabs\Player Details Canvas.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -60,45 +35,588 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\GameController.cs
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameController.cs
-    projectPath: Assets\Scripts\GameController.cs
+  - path: Assets\TextMesh Pro.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro.meta
+    projectPath: Assets\TextMesh Pro.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\LevelLoader.cs
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\LevelLoader.cs
-    projectPath: Assets\Scripts\LevelLoader.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Documentation.meta
+    projectPath: Assets\TextMesh Pro\Documentation.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\AnnotationManager
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Documentation\TextMesh
+      Pro User Guide 2016.pdf
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Documentation\TextMesh
+      Pro User Guide 2016.pdf.meta
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Fonts\LiberationSans
+      - OFL.txt
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Fonts\LiberationSans
+      - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources.meta
+    projectPath: Assets\TextMesh Pro\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Fallback.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\LineBreaking
+      Following Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\LineBreaking
+      Following Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\LineBreaking
+      Leading Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\LineBreaking
+      Leading Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Sprite
+      Assets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Sprite
+      Assets\EmojiOne.asset
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Sprite
+      Assets\EmojiOne.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Style
+      Sheets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Style
+      Sheets\Default Style Sheet.asset
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\Style
+      Sheets\Default Style Sheet.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\TMP
+      Settings.asset
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Resources\TMP
+      Settings.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders.meta
+    projectPath: Assets\TextMesh Pro\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF
+      Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF
+      Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF
+      SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF
+      SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      Masking.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      Masking.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
+      SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne
+      Attribution.txt
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne
+      Attribution.txt.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne.json
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne.png
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    projectPath: Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\06\06f8c2c84e4026cf493ac4f67f1aea3c
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\06\06f8c2c84e4026cf493ac4f67f1aea3c
     projectPath: Library\Artifacts\06\06f8c2c84e4026cf493ac4f67f1aea3c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
-    projectPath: Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
+    projectPath: Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
-    projectPath: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+  - path: Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    projectPath: Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    projectPath: Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    projectPath: Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    projectPath: Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1be28c63afc304addc3236fd715b638a
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1b\1be28c63afc304addc3236fd715b638a
+    projectPath: Library\Artifacts\1b\1be28c63afc304addc3236fd715b638a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    projectPath: Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
+    projectPath: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
+    projectPath: Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
+    projectPath: Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3c649df29722ba871227399330733b7d
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3c\3c649df29722ba871227399330733b7d
+    projectPath: Library\Artifacts\3c\3c649df29722ba871227399330733b7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
+    projectPath: Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\44\44ded36d92479180b22734f1c1eb5081
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\44\44ded36d92479180b22734f1c1eb5081
+    projectPath: Library\Artifacts\44\44ded36d92479180b22734f1c1eb5081
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -106,86 +624,248 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\46\4642780af8f9d0a3964a81dd08ee097d
     projectPath: Library\Artifacts\46\4642780af8f9d0a3964a81dd08ee097d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4c81e10fdf2011116aa0da443789a619
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\4c\4c81e10fdf2011116aa0da443789a619
-    projectPath: Library\Artifacts\4c\4c81e10fdf2011116aa0da443789a619
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+    projectPath: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    projectPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50717fb48975dab696b235003e7be60c
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\50\50717fb48975dab696b235003e7be60c
+    projectPath: Library\Artifacts\50\50717fb48975dab696b235003e7be60c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
+    projectPath: Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5f\5f175b3694697f54444113b95a3be2a1
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5f\5f175b3694697f54444113b95a3be2a1
     projectPath: Library\Artifacts\5f\5f175b3694697f54444113b95a3be2a1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\600c307e134e663678e0ed92434afa3d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\60\600c307e134e663678e0ed92434afa3d
-    projectPath: Library\Artifacts\60\600c307e134e663678e0ed92434afa3d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\69\69b40ed2998e1086872691cfea7092fe
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\69\69b40ed2998e1086872691cfea7092fe
-    projectPath: Library\Artifacts\69\69b40ed2998e1086872691cfea7092fe
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
+    projectPath: Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    projectPath: Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\6c\6cf20236498e5e1fda18c50f0cf92b63
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6c\6cf20236498e5e1fda18c50f0cf92b63
     projectPath: Library\Artifacts\6c\6cf20236498e5e1fda18c50f0cf92b63
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8d\8dd5f7a47a0bb4b20c121177a279b035
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8d\8dd5f7a47a0bb4b20c121177a279b035
-    projectPath: Library\Artifacts\8d\8dd5f7a47a0bb4b20c121177a279b035
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
+    projectPath: Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
-    projectPath: Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
+  - path: Library\Artifacts\72\725180cfc6c2116e88e1987582b954b5
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\72\725180cfc6c2116e88e1987582b954b5
+    projectPath: Library\Artifacts\72\725180cfc6c2116e88e1987582b954b5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\9c\9cf28123fad9e24277bfb833accd6ea9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9c\9cf28123fad9e24277bfb833accd6ea9
-    projectPath: Library\Artifacts\9c\9cf28123fad9e24277bfb833accd6ea9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bda616edaee7020c7cac8ecafaa10f5e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bd\bda616edaee7020c7cac8ecafaa10f5e
-    projectPath: Library\Artifacts\bd\bda616edaee7020c7cac8ecafaa10f5e
+  - path: Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
+    projectPath: Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2699db943122d2035e6bef8335b5227
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c2\c2699db943122d2035e6bef8335b5227
-    projectPath: Library\Artifacts\c2\c2699db943122d2035e6bef8335b5227
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e5\e51d69614a968c6958f86846a2b34de4
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e5\e51d69614a968c6958f86846a2b34de4
-    projectPath: Library\Artifacts\e5\e51d69614a968c6958f86846a2b34de4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
-    projectPath: Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
+  - path: Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
+    projectPath: Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
-    projectPath: Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
+  - path: Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
+    projectPath: Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
+    projectPath: Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
+    projectPath: Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8eaa66bec5a71ef1b08941a7dbffcb88
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8e\8eaa66bec5a71ef1b08941a7dbffcb88
+    projectPath: Library\Artifacts\8e\8eaa66bec5a71ef1b08941a7dbffcb88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    projectPath: Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    projectPath: Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9f\9f87e45f6966e6a0b6a772fc0766eafb
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9f\9f87e45f6966e6a0b6a772fc0766eafb
+    projectPath: Library\Artifacts\9f\9f87e45f6966e6a0b6a772fc0766eafb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
+    projectPath: Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
+    projectPath: Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
+    projectPath: Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    projectPath: Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    projectPath: Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
+    projectPath: Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c0\c0d8ff1b40c918d0f0215fb656c8a458
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c0\c0d8ff1b40c918d0f0215fb656c8a458
+    projectPath: Library\Artifacts\c0\c0d8ff1b40c918d0f0215fb656c8a458
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
+    projectPath: Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
+    projectPath: Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
+    projectPath: Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cf\cf0fc5160fb812c8a76bc1ecb3a19257
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cf\cf0fc5160fb812c8a76bc1ecb3a19257
+    projectPath: Library\Artifacts\cf\cf0fc5160fb812c8a76bc1ecb3a19257
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    projectPath: Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
+    projectPath: Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    projectPath: Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    projectPath: Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    projectPath: Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    projectPath: Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    projectPath: Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    projectPath: Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
+    projectPath: Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
@@ -198,12 +878,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\expandedItems
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\expandedItems
     projectPath: Library\expandedItems
@@ -240,72 +914,252 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\ScriptMapper
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+  - path: Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
+    projectPath: Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    projectPath: Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    projectPath: Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    projectPath: Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    projectPath: Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    projectPath: Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    projectPath: Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    projectPath: Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    projectPath: Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    projectPath: Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    projectPath: Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    projectPath: Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    projectPath: Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    projectPath: Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    projectPath: Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    projectPath: Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    projectPath: Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    projectPath: Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    projectPath: Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    projectPath: Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    projectPath: Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    projectPath: Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    projectPath: Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    projectPath: Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    projectPath: Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    projectPath: Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    projectPath: Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    projectPath: Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    projectPath: Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    projectPath: Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    projectPath: Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    projectPath: Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    projectPath: Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    projectPath: Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\PrefabStageHierarchy\96\962b3782181dd671afcf180697368aad.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\96\962b3782181dd671afcf180697368aad.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\96\962b3782181dd671afcf180697368aad.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\c5\c586c828e90da3c65cfeda77939f573e.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\c5\c586c828e90da3c65cfeda77939f573e.json
-    projectPath: Library\StateCache\SceneView\c5\c586c828e90da3c65cfeda77939f573e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Logs\AssetImportWorker0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -402,261 +1256,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
-    projectPath: obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Red Flags.sln
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Red Flags.sln
     projectPath: Red Flags.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Assembly-CSharp.dll.hash
-    projectPath: Temp\Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\CompilationLog.txt
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.CollabProxy.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.CollabProxy.Editor.dll.hash
-    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.PlasticSCM.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.PlasticSCM.Editor.dll.hash
-    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.Rider.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.Rider.Editor.dll.hash
-    projectPath: Temp\Unity.Rider.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.TextMeshPro.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.TextMeshPro.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.TextMeshPro.Editor.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.Timeline.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.Timeline.dll.hash
-    projectPath: Temp\Unity.Timeline.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.Timeline.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.Timeline.Editor.dll.hash
-    projectPath: Temp\Unity.Timeline.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.VisualStudio.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.VisualStudio.Editor.dll.hash
-    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Unity.VSCode.Editor.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\Unity.VSCode.Editor.dll.hash
-    projectPath: Temp\Unity.VSCode.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityEditor.TestRunner.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityEditor.TestRunner.dll.hash
-    projectPath: Temp\UnityEditor.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityEditor.UI.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityEditor.UI.dll.hash
-    projectPath: Temp\UnityEditor.UI.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityEngine.TestRunner.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityEngine.TestRunner.dll.hash
-    projectPath: Temp\UnityEngine.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityEngine.UI.dll.hash
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityEngine.UI.dll.hash
-    projectPath: Temp\UnityEngine.UI.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-199fcd3fb21e6bb4d8a8292f9bbc2225
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-199fcd3fb21e6bb4d8a8292f9bbc2225
-    projectPath: Temp\UnityTempFile-199fcd3fb21e6bb4d8a8292f9bbc2225
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1e05fd472df93e748b619a37a91d955f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-1e05fd472df93e748b619a37a91d955f
-    projectPath: Temp\UnityTempFile-1e05fd472df93e748b619a37a91d955f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-24ae1084b8acb454c894dca726e90fe8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-24ae1084b8acb454c894dca726e90fe8
-    projectPath: Temp\UnityTempFile-24ae1084b8acb454c894dca726e90fe8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-28f8456c5db1dda4294c04802afa133f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-28f8456c5db1dda4294c04802afa133f
-    projectPath: Temp\UnityTempFile-28f8456c5db1dda4294c04802afa133f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-37586dff496fc1341b6f631f2c106235
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-37586dff496fc1341b6f631f2c106235
-    projectPath: Temp\UnityTempFile-37586dff496fc1341b6f631f2c106235
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-44d707369001fc84781a832d61e8f649
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-44d707369001fc84781a832d61e8f649
-    projectPath: Temp\UnityTempFile-44d707369001fc84781a832d61e8f649
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-46045da64342e044695b405bfcb81d38
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-46045da64342e044695b405bfcb81d38
-    projectPath: Temp\UnityTempFile-46045da64342e044695b405bfcb81d38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-529a013b1765961469edab6b2d5b7673
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-529a013b1765961469edab6b2d5b7673
-    projectPath: Temp\UnityTempFile-529a013b1765961469edab6b2d5b7673
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7aee0bc9489d0504dac0c7255a4b2308
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-7aee0bc9489d0504dac0c7255a4b2308
-    projectPath: Temp\UnityTempFile-7aee0bc9489d0504dac0c7255a4b2308
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7cfe74880de471f4fad43161f4586d07
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-7cfe74880de471f4fad43161f4586d07
-    projectPath: Temp\UnityTempFile-7cfe74880de471f4fad43161f4586d07
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8244960b618dda545a3edfe232f30b13
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-8244960b618dda545a3edfe232f30b13
-    projectPath: Temp\UnityTempFile-8244960b618dda545a3edfe232f30b13
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8ee52216dcc5ee14b8b153eecdbb54eb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-8ee52216dcc5ee14b8b153eecdbb54eb
-    projectPath: Temp\UnityTempFile-8ee52216dcc5ee14b8b153eecdbb54eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-914f1710d2fa7ff4aac4960b29583025
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-914f1710d2fa7ff4aac4960b29583025
-    projectPath: Temp\UnityTempFile-914f1710d2fa7ff4aac4960b29583025
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a6dbdb06d0997b64ea6965089ec66352
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-a6dbdb06d0997b64ea6965089ec66352
-    projectPath: Temp\UnityTempFile-a6dbdb06d0997b64ea6965089ec66352
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ae6ec54515f9cf249bf82b667dd8ea70
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-ae6ec54515f9cf249bf82b667dd8ea70
-    projectPath: Temp\UnityTempFile-ae6ec54515f9cf249bf82b667dd8ea70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b11948b7e7085a6468d205464b427c17
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-b11948b7e7085a6468d205464b427c17
-    projectPath: Temp\UnityTempFile-b11948b7e7085a6468d205464b427c17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e06d62a5df5f8b143b5c025eee4d4bd6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-e06d62a5df5f8b143b5c025eee4d4bd6
-    projectPath: Temp\UnityTempFile-e06d62a5df5f8b143b5c025eee4d4bd6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e2a895af662b7f645a175358a0b9a46a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-e2a895af662b7f645a175358a0b9a46a
-    projectPath: Temp\UnityTempFile-e2a895af662b7f645a175358a0b9a46a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e348090ddb3336048b50b4ba549d097a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-e348090ddb3336048b50b4ba549d097a
-    projectPath: Temp\UnityTempFile-e348090ddb3336048b50b4ba549d097a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f89c26c3bfde72946b5f1c943f8889c7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-f89c26c3bfde72946b5f1c943f8889c7
-    projectPath: Temp\UnityTempFile-f89c26c3bfde72946b5f1c943f8889c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -666,9 +1274,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
