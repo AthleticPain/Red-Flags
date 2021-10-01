@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-01T17:01:29.465+05:30
-  initializedAtString: 2021-10-01T15:10:30.626+05:30
+  lastUpdatedAtString: 2021-10-01T17:15:02.378+05:30
+  initializedAtString: 2021-10-01T17:03:21.183+05:30
   entries:
   - path: .vs\Red Flags\v16\.suo
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\.vs\Red Flags\v16\.suo
@@ -22,630 +22,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Prefabs\Cards.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\Cards.prefab
-    projectPath: Assets\Prefabs\Cards.prefab
+  - path: Assets\Scripts\GameController.cs
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameController.cs
+    projectPath: Assets\Scripts\GameController.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Prefabs\QuestionCards\Land Questions.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Cold Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Cold Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Cold
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Cold Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Cold Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Cold
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Farmer Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Farmer Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Farmer
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Farmer Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Farmer Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Farmer
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - New fridge
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - New fridge Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - New
-      fridge Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - New fridge
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - New fridge Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - New
-      fridge Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - packaging Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - packaging Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - packaging
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - packaging Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - packaging Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - packaging
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Sewage disposal
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Sewage disposal Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Sewage
-      disposal Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Sewage disposal
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Sewage disposal Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Sewage
-      disposal Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Shopping Bag
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Shopping Bag Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Shopping
-      Bag Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Shopping Bag
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Shopping Bag Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Shopping
-      Bag Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Waste disposal
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Waste disposal Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Waste
-      disposal Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Waste disposal
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Waste disposal Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Waste
-      disposal Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Wasteland Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Wasteland Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Wasteland
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Wasteland Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Land
-      Questions\Question Card - Wasteland Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Land Questions\Question Card - Wasteland
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions.meta
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Curb climate
-      change Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Curb climate change Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Curb
-      climate change Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Curb climate
-      change Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Curb climate change Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Curb
-      climate change Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Windows Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Windows Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Windows
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Windows Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Windows Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Windows
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Women empowerment
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Women empowerment Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Women
-      empowerment Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Women empowerment
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Mixed
-      Questions\Question Card - Women empowerment Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Mixed Questions\Question Card - Women
-      empowerment Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card 1.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 1.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 1.prefab
+  - path: Assets\Scripts\GameEndCanvas.cs
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Scripts\GameEndCanvas.cs
+    projectPath: Assets\Scripts\GameEndCanvas.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card 1.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 1.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 1.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card 2.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 2.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 2.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card 2.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 2.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 2.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card 3.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 3.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 3.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card 3.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card 3.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card 3.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\QuestionCards\Question Card abc.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card abc.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card abc.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card abc.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card abc.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card abc.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card acb.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card acb.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card acb.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card acb.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card acb.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card acb.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card bac.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card bac.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card bac.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card bac.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card bac.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card bac.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card bca.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card bca.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card bca.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card bca.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card bca.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card bca.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card cab.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card cab.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card cab.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card cab.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card cab.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card cab.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card cba.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card cba.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Question Card cba.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Question Card cba.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Question
-      Card cba.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Question Card cba.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Backyard Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Backyard Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Backyard
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Backyard Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Backyard Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Backyard
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Car wash Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Car wash Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Car
-      wash Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Car wash Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Car wash Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Car
-      wash Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - clogged sink
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - clogged sink Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - clogged
-      sink Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - clogged sink
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - clogged sink Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - clogged
-      sink Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Cooking fat
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Cooking fat Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Cooking
-      fat Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Cooking fat
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Cooking fat Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Cooking
-      fat Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Dish cleaner
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Dish cleaner Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Dish
-      cleaner Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Dish cleaner
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Dish cleaner Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Dish
-      cleaner Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Groceries
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Groceries Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Groceries
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Groceries
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Groceries Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Groceries
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Medical waste
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Medical waste Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Medical
-      waste Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Medical waste
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Medical waste Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Medical
-      waste Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Trip Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Trip Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Trip
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Trip Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Water
-      Questions\Question Card - Trip Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Water Questions\Question Card - Trip
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Car shopping
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Car shopping Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Car
-      shopping Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Car shopping
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Car shopping Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Car
-      shopping Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - City design
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - City design Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - City
-      design Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - City design
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - City design Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - City
-      design Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Climate change
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Climate change Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Climate
-      change Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Climate change
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Climate change Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Climate
-      change Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Dinner Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Dinner Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Dinner
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Dinner Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Dinner Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Dinner
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Drying clothes
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Drying clothes Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Drying
-      clothes Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Drying clothes
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Drying clothes Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Drying
-      clothes Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Heat Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Heat Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Heat
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Heat Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Heat Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Heat
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - paints Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints
-      Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - paints Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - paints
-      Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Transport company
-      Variant.prefab
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Transport company Variant.prefab
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Transport
-      company Variant.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Transport company
-      Variant.prefab.meta
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Assets\Prefabs\QuestionCards\Wind
-      Questions\Question Card - Transport company Variant.prefab.meta
-    projectPath: Assets\Prefabs\QuestionCards\Wind Questions\Question Card - Transport
-      company Variant.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -656,179 +44,53 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\00\00323d11b1a62a63df2e65daf3894b1e
     projectPath: Library\Artifacts\00\00323d11b1a62a63df2e65daf3894b1e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\00\00626b886c16e62cc8c2087efe59e09d
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\00\00626b886c16e62cc8c2087efe59e09d
     projectPath: Library\Artifacts\00\00626b886c16e62cc8c2087efe59e09d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\00\0082c4585720dcf35eaae376bc7fc45e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\00\0082c4585720dcf35eaae376bc7fc45e
-    projectPath: Library\Artifacts\00\0082c4585720dcf35eaae376bc7fc45e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\00\0097b132afc6cf036df0f9bdf23727bb
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\00\0097b132afc6cf036df0f9bdf23727bb
     projectPath: Library\Artifacts\00\0097b132afc6cf036df0f9bdf23727bb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\02\02273b2bfda7eb860610c467c7b0eebc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\02\02273b2bfda7eb860610c467c7b0eebc
-    projectPath: Library\Artifacts\02\02273b2bfda7eb860610c467c7b0eebc
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\03\03fa9bf638e1f609191445c559aa7e2a
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\03\03fa9bf638e1f609191445c559aa7e2a
+    projectPath: Library\Artifacts\03\03fa9bf638e1f609191445c559aa7e2a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\03\0344091153077c539279b634d676ae3c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\03\0344091153077c539279b634d676ae3c
-    projectPath: Library\Artifacts\03\0344091153077c539279b634d676ae3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\04\043360b56021e1ff670ca4e6bf85c8fd
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\04\043360b56021e1ff670ca4e6bf85c8fd
-    projectPath: Library\Artifacts\04\043360b56021e1ff670ca4e6bf85c8fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\04\0453d03c90b411cfb0294d6503dc8d0c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\04\0453d03c90b411cfb0294d6503dc8d0c
-    projectPath: Library\Artifacts\04\0453d03c90b411cfb0294d6503dc8d0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\04\04d4e710fecb9c78c1791a27e52b01cf
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\04\04d4e710fecb9c78c1791a27e52b01cf
-    projectPath: Library\Artifacts\04\04d4e710fecb9c78c1791a27e52b01cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\04\04d62242e88192600b70d49790bdb462
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\04\04d62242e88192600b70d49790bdb462
-    projectPath: Library\Artifacts\04\04d62242e88192600b70d49790bdb462
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\05\0507b0f823e9812a30ad55b1b16fecd9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\05\0507b0f823e9812a30ad55b1b16fecd9
-    projectPath: Library\Artifacts\05\0507b0f823e9812a30ad55b1b16fecd9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\05\05534a24fefa9015bd8b1accb875f8da
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\05\05534a24fefa9015bd8b1accb875f8da
     projectPath: Library\Artifacts\05\05534a24fefa9015bd8b1accb875f8da
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\05\05e6f59a6bcdc52fb341a4c9f31f52d6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\05\05e6f59a6bcdc52fb341a4c9f31f52d6
-    projectPath: Library\Artifacts\05\05e6f59a6bcdc52fb341a4c9f31f52d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\06\060565c69959e830822335cda22bf242
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\06\060565c69959e830822335cda22bf242
-    projectPath: Library\Artifacts\06\060565c69959e830822335cda22bf242
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\06\06bd25dedba34369e53461adc2aca57c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\06\06bd25dedba34369e53461adc2aca57c
-    projectPath: Library\Artifacts\06\06bd25dedba34369e53461adc2aca57c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\06\06f326173c6119279df2521aa8f53c6a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\06\06f326173c6119279df2521aa8f53c6a
-    projectPath: Library\Artifacts\06\06f326173c6119279df2521aa8f53c6a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\07\07249314b036467b41576095837ebf9d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\07\07249314b036467b41576095837ebf9d
-    projectPath: Library\Artifacts\07\07249314b036467b41576095837ebf9d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\07\07e4508d4cfb732f74cd2bc5b9b32955
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\07\07e4508d4cfb732f74cd2bc5b9b32955
-    projectPath: Library\Artifacts\07\07e4508d4cfb732f74cd2bc5b9b32955
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
-    projectPath: Library\Artifacts\08\080992d2121ed4fa32b5783b4f6e78be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\08\08cb3ee638a82edd2ec063ec82133215
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\08\08cb3ee638a82edd2ec063ec82133215
-    projectPath: Library\Artifacts\08\08cb3ee638a82edd2ec063ec82133215
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\09\097d8e9b064c83caecbfaf430a6f724c
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\09\097d8e9b064c83caecbfaf430a6f724c
     projectPath: Library\Artifacts\09\097d8e9b064c83caecbfaf430a6f724c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\09\09e8377b23a11e68c9e64f0382c5a01d
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\09\09e8377b23a11e68c9e64f0382c5a01d
     projectPath: Library\Artifacts\09\09e8377b23a11e68c9e64f0382c5a01d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0a\0a72caeb79e1f4d85ffde3f04e074ec1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0a\0a72caeb79e1f4d85ffde3f04e074ec1
-    projectPath: Library\Artifacts\0a\0a72caeb79e1f4d85ffde3f04e074ec1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0a\0a7c87fe06d19a4e164f930b0d353d9b
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0a\0a7c87fe06d19a4e164f930b0d353d9b
     projectPath: Library\Artifacts\0a\0a7c87fe06d19a4e164f930b0d353d9b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0b\0b62b6345c6cd0ca5c27e94f84e54ed1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0b\0b62b6345c6cd0ca5c27e94f84e54ed1
-    projectPath: Library\Artifacts\0b\0b62b6345c6cd0ca5c27e94f84e54ed1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0c\0cfa3b6838268fde60a55f65b5b7a8a3
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0c\0cfa3b6838268fde60a55f65b5b7a8a3
-    projectPath: Library\Artifacts\0c\0cfa3b6838268fde60a55f65b5b7a8a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0d\0de0053f8a32b8d92ee2a99230abeb70
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0d\0de0053f8a32b8d92ee2a99230abeb70
-    projectPath: Library\Artifacts\0d\0de0053f8a32b8d92ee2a99230abeb70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0e\0e8565e5bb8038fd01a023eb57b195c3
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0e\0e8565e5bb8038fd01a023eb57b195c3
-    projectPath: Library\Artifacts\0e\0e8565e5bb8038fd01a023eb57b195c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0f\0feb46a82df1f77010318e8901ace2e9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\0f\0feb46a82df1f77010318e8901ace2e9
-    projectPath: Library\Artifacts\0f\0feb46a82df1f77010318e8901ace2e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\13\1345d4be88e65c444498b1a1554c85a5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\13\1345d4be88e65c444498b1a1554c85a5
-    projectPath: Library\Artifacts\13\1345d4be88e65c444498b1a1554c85a5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -836,203 +98,41 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\14\14ed671c9b03f9d762bee87fb780ab51
     projectPath: Library\Artifacts\14\14ed671c9b03f9d762bee87fb780ab51
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\15\151038e64a9651ab74d2adc43781714d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\15\151038e64a9651ab74d2adc43781714d
-    projectPath: Library\Artifacts\15\151038e64a9651ab74d2adc43781714d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\16\169e4f0117b9ea1a2d5f053d16a5d2d0
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\16\169e4f0117b9ea1a2d5f053d16a5d2d0
-    projectPath: Library\Artifacts\16\169e4f0117b9ea1a2d5f053d16a5d2d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\16\16a0797b7ad0db7846a813d47c967005
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\16\16a0797b7ad0db7846a813d47c967005
-    projectPath: Library\Artifacts\16\16a0797b7ad0db7846a813d47c967005
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\16\16f896d219e94e215ea62b5fd6d8c534
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\16\16f896d219e94e215ea62b5fd6d8c534
-    projectPath: Library\Artifacts\16\16f896d219e94e215ea62b5fd6d8c534
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\19\190b8186ef0d4132f2735863dae46a07
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\19\190b8186ef0d4132f2735863dae46a07
     projectPath: Library\Artifacts\19\190b8186ef0d4132f2735863dae46a07
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1b\1b48be14c1c064f9201aee28f5ba9fd8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1b\1b48be14c1c064f9201aee28f5ba9fd8
-    projectPath: Library\Artifacts\1b\1b48be14c1c064f9201aee28f5ba9fd8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1b\1b55c54fafb0a0ed9f1a5c15e6aef7b5
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1b\1b55c54fafb0a0ed9f1a5c15e6aef7b5
     projectPath: Library\Artifacts\1b\1b55c54fafb0a0ed9f1a5c15e6aef7b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1c\1ce82c01724f8a60ba88a4f3328f7ee1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1c\1ce82c01724f8a60ba88a4f3328f7ee1
-    projectPath: Library\Artifacts\1c\1ce82c01724f8a60ba88a4f3328f7ee1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1dc5400bdf01340cefbd91c18946bdd0
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1d\1dc5400bdf01340cefbd91c18946bdd0
-    projectPath: Library\Artifacts\1d\1dc5400bdf01340cefbd91c18946bdd0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1dca3875b38e12e35b3cb121f9b76d4a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1d\1dca3875b38e12e35b3cb121f9b76d4a
-    projectPath: Library\Artifacts\1d\1dca3875b38e12e35b3cb121f9b76d4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1e40868bf8b96ccdd44d3a550f72129f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1e\1e40868bf8b96ccdd44d3a550f72129f
-    projectPath: Library\Artifacts\1e\1e40868bf8b96ccdd44d3a550f72129f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1ece3a24d9daf411d512c13228f68c9f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1e\1ece3a24d9daf411d512c13228f68c9f
-    projectPath: Library\Artifacts\1e\1ece3a24d9daf411d512c13228f68c9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1eeb557245664556732f03a0fba7ffdf
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1e\1eeb557245664556732f03a0fba7ffdf
-    projectPath: Library\Artifacts\1e\1eeb557245664556732f03a0fba7ffdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1f\1f14fe1c0b2b46d074c07757a5c00e32
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1f\1f14fe1c0b2b46d074c07757a5c00e32
-    projectPath: Library\Artifacts\1f\1f14fe1c0b2b46d074c07757a5c00e32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1f\1f3abfe246238040b96112bb67c4198e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\1f\1f3abfe246238040b96112bb67c4198e
-    projectPath: Library\Artifacts\1f\1f3abfe246238040b96112bb67c4198e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\20\200ef2e49f92c5e9f5982e03ac7b78ed
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\200ef2e49f92c5e9f5982e03ac7b78ed
-    projectPath: Library\Artifacts\20\200ef2e49f92c5e9f5982e03ac7b78ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\20\205c8e6ef9c6fff291712031ced8cefc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\205c8e6ef9c6fff291712031ced8cefc
-    projectPath: Library\Artifacts\20\205c8e6ef9c6fff291712031ced8cefc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\20\20837338de8d2d99774cf1b6195283ce
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\20837338de8d2d99774cf1b6195283ce
-    projectPath: Library\Artifacts\20\20837338de8d2d99774cf1b6195283ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\20\2086edb24ed461540570bb19acb29717
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\20\2086edb24ed461540570bb19acb29717
-    projectPath: Library\Artifacts\20\2086edb24ed461540570bb19acb29717
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\21\21e460977f50345078f6f648ff062477
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\21\21e460977f50345078f6f648ff062477
-    projectPath: Library\Artifacts\21\21e460977f50345078f6f648ff062477
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\22\222ba7a88dcb40c36ceecc616737d352
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\22\222ba7a88dcb40c36ceecc616737d352
     projectPath: Library\Artifacts\22\222ba7a88dcb40c36ceecc616737d352
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\22\22536f348965a431c385777693509688
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\22\22536f348965a431c385777693509688
-    projectPath: Library\Artifacts\22\22536f348965a431c385777693509688
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\23\23cdff57d1e5d4849f20ae0b1ecd26c4
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\23\23cdff57d1e5d4849f20ae0b1ecd26c4
-    projectPath: Library\Artifacts\23\23cdff57d1e5d4849f20ae0b1ecd26c4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\28912a3623895367b3310f1ffae7c527
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\28\28912a3623895367b3310f1ffae7c527
-    projectPath: Library\Artifacts\28\28912a3623895367b3310f1ffae7c527
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\28cbad6e98363e73cb316e0b587d347e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\28\28cbad6e98363e73cb316e0b587d347e
-    projectPath: Library\Artifacts\28\28cbad6e98363e73cb316e0b587d347e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\29\295859ef7102c52bf278fa6314c5ecc1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\29\295859ef7102c52bf278fa6314c5ecc1
-    projectPath: Library\Artifacts\29\295859ef7102c52bf278fa6314c5ecc1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\29\296063aae2988859a1890a17c4fc36b0
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\29\296063aae2988859a1890a17c4fc36b0
-    projectPath: Library\Artifacts\29\296063aae2988859a1890a17c4fc36b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\29\29d98d98b1c8c6ccaf323ef9391d1192
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\29\29d98d98b1c8c6ccaf323ef9391d1192
-    projectPath: Library\Artifacts\29\29d98d98b1c8c6ccaf323ef9391d1192
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2a\2a243ec7120144277259438220241d6a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2a\2a243ec7120144277259438220241d6a
-    projectPath: Library\Artifacts\2a\2a243ec7120144277259438220241d6a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2a\2a44f69464726cab96c3d4ac3d3336cd
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2a\2a44f69464726cab96c3d4ac3d3336cd
     projectPath: Library\Artifacts\2a\2a44f69464726cab96c3d4ac3d3336cd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2a\2aa7925b1fddac8538c1e259dc02fbea
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2a\2aa7925b1fddac8538c1e259dc02fbea
-    projectPath: Library\Artifacts\2a\2aa7925b1fddac8538c1e259dc02fbea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2b\2ba55053e6cfba72afa2ecc6ad5ae482
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2b\2ba55053e6cfba72afa2ecc6ad5ae482
     projectPath: Library\Artifacts\2b\2ba55053e6cfba72afa2ecc6ad5ae482
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2b\2bd87a8247118b3b400a02698a3c50ae
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2b\2bd87a8247118b3b400a02698a3c50ae
-    projectPath: Library\Artifacts\2b\2bd87a8247118b3b400a02698a3c50ae
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
+    projectPath: Library\Artifacts\2d\2dab0f8d71730c878fb4e6901be0b273
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1040,695 +140,95 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\30\30935c839cc16a3f52ce8b01dc99865f
     projectPath: Library\Artifacts\30\30935c839cc16a3f52ce8b01dc99865f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\33\33f501adc2731905dde50cda492836d7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\33\33f501adc2731905dde50cda492836d7
-    projectPath: Library\Artifacts\33\33f501adc2731905dde50cda492836d7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\34\34ad9cdb8f7536a81db884631e8e2575
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\34\34ad9cdb8f7536a81db884631e8e2575
-    projectPath: Library\Artifacts\34\34ad9cdb8f7536a81db884631e8e2575
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\34\34caf8430e579296390148f9ec66f000
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\34\34caf8430e579296390148f9ec66f000
-    projectPath: Library\Artifacts\34\34caf8430e579296390148f9ec66f000
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\35\35a3701fcf18b0780fcae5a9d8122d35
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\35\35a3701fcf18b0780fcae5a9d8122d35
-    projectPath: Library\Artifacts\35\35a3701fcf18b0780fcae5a9d8122d35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\36\36a7122d7a1d50600f2cb9d26d8e47d0
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\36\36a7122d7a1d50600f2cb9d26d8e47d0
-    projectPath: Library\Artifacts\36\36a7122d7a1d50600f2cb9d26d8e47d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\36\36d147b08b22306bcbd8c52b6b1ba1c8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\36\36d147b08b22306bcbd8c52b6b1ba1c8
-    projectPath: Library\Artifacts\36\36d147b08b22306bcbd8c52b6b1ba1c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\37\37752b3ca2620eb6e6968132e0470c66
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\37\37752b3ca2620eb6e6968132e0470c66
-    projectPath: Library\Artifacts\37\37752b3ca2620eb6e6968132e0470c66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\38\3856eb5a729f9d768f0192841bc00946
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\38\3856eb5a729f9d768f0192841bc00946
-    projectPath: Library\Artifacts\38\3856eb5a729f9d768f0192841bc00946
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\3939a302b114a44c668ef2b9ac157150
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\39\3939a302b114a44c668ef2b9ac157150
-    projectPath: Library\Artifacts\39\3939a302b114a44c668ef2b9ac157150
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\39ff5327c54de183d6d932b80b1f8851
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\39\39ff5327c54de183d6d932b80b1f8851
-    projectPath: Library\Artifacts\39\39ff5327c54de183d6d932b80b1f8851
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3a50773e82f2810bad2aadd84b37ad68
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3a\3a50773e82f2810bad2aadd84b37ad68
-    projectPath: Library\Artifacts\3a\3a50773e82f2810bad2aadd84b37ad68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3b\3b99557dbf89bc472ed835c339bf3e1a
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3b\3b99557dbf89bc472ed835c339bf3e1a
     projectPath: Library\Artifacts\3b\3b99557dbf89bc472ed835c339bf3e1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3c\3cc502d5fdca2d6c05d6ce88f1e43f61
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3c\3cc502d5fdca2d6c05d6ce88f1e43f61
     projectPath: Library\Artifacts\3c\3cc502d5fdca2d6c05d6ce88f1e43f61
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3c\3cd55e7fc2c137f84531346538784ad8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3c\3cd55e7fc2c137f84531346538784ad8
-    projectPath: Library\Artifacts\3c\3cd55e7fc2c137f84531346538784ad8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3d\3d8adaa81085cf090f74ef9a89cd5c36
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\3d\3d8adaa81085cf090f74ef9a89cd5c36
-    projectPath: Library\Artifacts\3d\3d8adaa81085cf090f74ef9a89cd5c36
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\40\4009bba7f3dde15d5194b90bffd53ffe
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\40\4009bba7f3dde15d5194b90bffd53ffe
-    projectPath: Library\Artifacts\40\4009bba7f3dde15d5194b90bffd53ffe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\41\413910dfc3c5ea588c4679060518adab
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\41\413910dfc3c5ea588c4679060518adab
     projectPath: Library\Artifacts\41\413910dfc3c5ea588c4679060518adab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
-    projectPath: Library\Artifacts\42\4238cef2812f2b8cb1146b9d1b452eee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\42\42ea0be4dca239b8fd6abae4378ed08c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\42\42ea0be4dca239b8fd6abae4378ed08c
-    projectPath: Library\Artifacts\42\42ea0be4dca239b8fd6abae4378ed08c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\453b56ccf3105a172b55a866c49b5166
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\45\453b56ccf3105a172b55a866c49b5166
-    projectPath: Library\Artifacts\45\453b56ccf3105a172b55a866c49b5166
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\46\463150f193f880f134dadf7be517697d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\46\463150f193f880f134dadf7be517697d
-    projectPath: Library\Artifacts\46\463150f193f880f134dadf7be517697d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\46\464da4eee262dddd456a049518a86c6f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\46\464da4eee262dddd456a049518a86c6f
-    projectPath: Library\Artifacts\46\464da4eee262dddd456a049518a86c6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\46\46e501001a0391d3d4782e0d11c7c5bb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\46\46e501001a0391d3d4782e0d11c7c5bb
-    projectPath: Library\Artifacts\46\46e501001a0391d3d4782e0d11c7c5bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\4742c6797186a8931166e5a3316a527e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\47\4742c6797186a8931166e5a3316a527e
-    projectPath: Library\Artifacts\47\4742c6797186a8931166e5a3316a527e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\4751f44cbe2abc863bdcd6a8f4a724f5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\47\4751f44cbe2abc863bdcd6a8f4a724f5
-    projectPath: Library\Artifacts\47\4751f44cbe2abc863bdcd6a8f4a724f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\47c93354ae65ad17d35d59420c5d2e1c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\47\47c93354ae65ad17d35d59420c5d2e1c
-    projectPath: Library\Artifacts\47\47c93354ae65ad17d35d59420c5d2e1c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\47d3cb57086b0bf19ca548727e507c5d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\47\47d3cb57086b0bf19ca548727e507c5d
-    projectPath: Library\Artifacts\47\47d3cb57086b0bf19ca548727e507c5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\49\49ded38a92043e553f9a7ac4004ff004
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\49\49ded38a92043e553f9a7ac4004ff004
-    projectPath: Library\Artifacts\49\49ded38a92043e553f9a7ac4004ff004
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4b\4b678b6e5cd4eccacdee4adc6e883f56
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\4b\4b678b6e5cd4eccacdee4adc6e883f56
-    projectPath: Library\Artifacts\4b\4b678b6e5cd4eccacdee4adc6e883f56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4e\4e2e282d49f8fcb2f248b35ac67b50dd
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\4e\4e2e282d49f8fcb2f248b35ac67b50dd
     projectPath: Library\Artifacts\4e\4e2e282d49f8fcb2f248b35ac67b50dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\50e9d6ad46de0066ed2482d32fa44751
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\50\50e9d6ad46de0066ed2482d32fa44751
-    projectPath: Library\Artifacts\50\50e9d6ad46de0066ed2482d32fa44751
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4f\4f95d0d07320fe64047ec91b4c641e70
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\4f\4f95d0d07320fe64047ec91b4c641e70
+    projectPath: Library\Artifacts\4f\4f95d0d07320fe64047ec91b4c641e70
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\52\52dac74400006e4a65292fcf64e55dba
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\52\52dac74400006e4a65292fcf64e55dba
-    projectPath: Library\Artifacts\52\52dac74400006e4a65292fcf64e55dba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
-    projectPath: Library\Artifacts\53\530443b92f04e9c0dbe33ed9fbdd812d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\57\57ad33982eae04e7d2a3c340bd2657c5
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\57\57ad33982eae04e7d2a3c340bd2657c5
     projectPath: Library\Artifacts\57\57ad33982eae04e7d2a3c340bd2657c5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\58\587351d8bf28d1667ce7cba1a028c54c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\58\587351d8bf28d1667ce7cba1a028c54c
-    projectPath: Library\Artifacts\58\587351d8bf28d1667ce7cba1a028c54c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5b\5b14bbe15da2f95a2662898a5416c28f
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5b\5b14bbe15da2f95a2662898a5416c28f
+    projectPath: Library\Artifacts\5b\5b14bbe15da2f95a2662898a5416c28f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\59\597d4afde6f64900e46b52b557ea2144
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\59\597d4afde6f64900e46b52b557ea2144
-    projectPath: Library\Artifacts\59\597d4afde6f64900e46b52b557ea2144
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
-    projectPath: Library\Artifacts\5b\5bbaaf4ddb3cddb9c556bca1b413f64f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5c\5c4cc68b2cf3d75192e791cb394d7266
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5c\5c4cc68b2cf3d75192e791cb394d7266
-    projectPath: Library\Artifacts\5c\5c4cc68b2cf3d75192e791cb394d7266
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5c\5c857e30d0761f2b43ce8308b0fa8275
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5c\5c857e30d0761f2b43ce8308b0fa8275
-    projectPath: Library\Artifacts\5c\5c857e30d0761f2b43ce8308b0fa8275
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5c\5ce6b7c50279a8cb2b08d87460c5f232
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5c\5ce6b7c50279a8cb2b08d87460c5f232
-    projectPath: Library\Artifacts\5c\5ce6b7c50279a8cb2b08d87460c5f232
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5d\5d093f597360218075137db5891052f5
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5d\5d093f597360218075137db5891052f5
     projectPath: Library\Artifacts\5d\5d093f597360218075137db5891052f5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5d\5d9d82345ac1bab1d2853a5ea1385807
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5d\5d9d82345ac1bab1d2853a5ea1385807
-    projectPath: Library\Artifacts\5d\5d9d82345ac1bab1d2853a5ea1385807
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5f\5f4e6a5c9048fdcafbf42c752821f9e6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\5f\5f4e6a5c9048fdcafbf42c752821f9e6
-    projectPath: Library\Artifacts\5f\5f4e6a5c9048fdcafbf42c752821f9e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\61\61f6d82a5fe427eea7d14c65e1ab93d7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\61\61f6d82a5fe427eea7d14c65e1ab93d7
-    projectPath: Library\Artifacts\61\61f6d82a5fe427eea7d14c65e1ab93d7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\62\62fa2b063bda96b46eb278658e3e94a0
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\62\62fa2b063bda96b46eb278658e3e94a0
     projectPath: Library\Artifacts\62\62fa2b063bda96b46eb278658e3e94a0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\63\630f474ef0c3689dbaaa7364ff88307f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\63\630f474ef0c3689dbaaa7364ff88307f
-    projectPath: Library\Artifacts\63\630f474ef0c3689dbaaa7364ff88307f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
-    projectPath: Library\Artifacts\63\63b9aa161b982d711ea38d21baa3c209
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\642b0076bc9c922a5927ba0b08effa36
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\64\642b0076bc9c922a5927ba0b08effa36
-    projectPath: Library\Artifacts\64\642b0076bc9c922a5927ba0b08effa36
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\65\6550f94aae20007350ebddd2b75cf12b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\65\6550f94aae20007350ebddd2b75cf12b
-    projectPath: Library\Artifacts\65\6550f94aae20007350ebddd2b75cf12b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\65\6584343b135f118b7ac33f28d2bff237
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\65\6584343b135f118b7ac33f28d2bff237
-    projectPath: Library\Artifacts\65\6584343b135f118b7ac33f28d2bff237
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\65\65fe9149802e1d250b5cc4e4826bdcd5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\65\65fe9149802e1d250b5cc4e4826bdcd5
-    projectPath: Library\Artifacts\65\65fe9149802e1d250b5cc4e4826bdcd5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\664b57803cc33b845799a897ce40cc6a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\66\664b57803cc33b845799a897ce40cc6a
-    projectPath: Library\Artifacts\66\664b57803cc33b845799a897ce40cc6a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\6726fd8e4e5e38eb40bb3eb40f3df6cc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\67\6726fd8e4e5e38eb40bb3eb40f3df6cc
-    projectPath: Library\Artifacts\67\6726fd8e4e5e38eb40bb3eb40f3df6cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\67d3bb55a3ef541c4e16641fecc15011
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\67\67d3bb55a3ef541c4e16641fecc15011
-    projectPath: Library\Artifacts\67\67d3bb55a3ef541c4e16641fecc15011
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\68\680fe8afab2202aec1faccda82e767ee
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\68\680fe8afab2202aec1faccda82e767ee
-    projectPath: Library\Artifacts\68\680fe8afab2202aec1faccda82e767ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\68\68e44c6b1f82bda0bc30603a67761b09
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\68\68e44c6b1f82bda0bc30603a67761b09
-    projectPath: Library\Artifacts\68\68e44c6b1f82bda0bc30603a67761b09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\69\6971025c8efdca07527bdc442b8b85d9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\69\6971025c8efdca07527bdc442b8b85d9
-    projectPath: Library\Artifacts\69\6971025c8efdca07527bdc442b8b85d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6a\6ad3d90dbc58f365c31640aea06ae81f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6a\6ad3d90dbc58f365c31640aea06ae81f
-    projectPath: Library\Artifacts\6a\6ad3d90dbc58f365c31640aea06ae81f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6b\6bd13432b379f00d52e607ae6d60ee03
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6b\6bd13432b379f00d52e607ae6d60ee03
-    projectPath: Library\Artifacts\6b\6bd13432b379f00d52e607ae6d60ee03
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6d\6d7062f0b7f9aef217e38e1c7216a86e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6d\6d7062f0b7f9aef217e38e1c7216a86e
-    projectPath: Library\Artifacts\6d\6d7062f0b7f9aef217e38e1c7216a86e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6d\6d71b88910db89337efce874843530dc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6d\6d71b88910db89337efce874843530dc
-    projectPath: Library\Artifacts\6d\6d71b88910db89337efce874843530dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6e\6e8b914098e7546c90f4f782a742a12b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6e\6e8b914098e7546c90f4f782a742a12b
-    projectPath: Library\Artifacts\6e\6e8b914098e7546c90f4f782a742a12b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6f4d2dce250011f4dfcfbee606364f87
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6f4d2dce250011f4dfcfbee606364f87
-    projectPath: Library\Artifacts\6f\6f4d2dce250011f4dfcfbee606364f87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\6f\6f4d4c5450567a974b6a22ad4217ea35
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6f4d4c5450567a974b6a22ad4217ea35
     projectPath: Library\Artifacts\6f\6f4d4c5450567a974b6a22ad4217ea35
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6f7eae9d2210d0d9ca7c10be029dccd7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6f7eae9d2210d0d9ca7c10be029dccd7
-    projectPath: Library\Artifacts\6f\6f7eae9d2210d0d9ca7c10be029dccd7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6fa6a3710b3a30e27409eac5713f259b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6fa6a3710b3a30e27409eac5713f259b
-    projectPath: Library\Artifacts\6f\6fa6a3710b3a30e27409eac5713f259b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6fbbcabe262a1d04a88d0cbde70fa917
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\6f\6fbbcabe262a1d04a88d0cbde70fa917
-    projectPath: Library\Artifacts\6f\6fbbcabe262a1d04a88d0cbde70fa917
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\70\707a75dfda925cd8e9f80e0079b48740
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\70\707a75dfda925cd8e9f80e0079b48740
-    projectPath: Library\Artifacts\70\707a75dfda925cd8e9f80e0079b48740
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\71\716a2f6a7be4869278e27371989d9d8b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\71\716a2f6a7be4869278e27371989d9d8b
-    projectPath: Library\Artifacts\71\716a2f6a7be4869278e27371989d9d8b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\72\722b160cc528142287bba6625adbabbe
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\72\722b160cc528142287bba6625adbabbe
-    projectPath: Library\Artifacts\72\722b160cc528142287bba6625adbabbe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\73\73655eab5e33e936c8c5ac3752b5a448
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\73\73655eab5e33e936c8c5ac3752b5a448
-    projectPath: Library\Artifacts\73\73655eab5e33e936c8c5ac3752b5a448
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\73\73e7b37950b72888b149ab06b2147977
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\73\73e7b37950b72888b149ab06b2147977
-    projectPath: Library\Artifacts\73\73e7b37950b72888b149ab06b2147977
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
-    projectPath: Library\Artifacts\74\745e4294d034f2d95782e62534a87f4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\74\74b163f8f0ccbd4eadcb8bb389bfebaf
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\74\74b163f8f0ccbd4eadcb8bb389bfebaf
     projectPath: Library\Artifacts\74\74b163f8f0ccbd4eadcb8bb389bfebaf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\7529f0cd89456b3e10cafb0e799182db
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\75\7529f0cd89456b3e10cafb0e799182db
-    projectPath: Library\Artifacts\75\7529f0cd89456b3e10cafb0e799182db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\76\76dd228aad1890930da55a5d8f04459b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\76\76dd228aad1890930da55a5d8f04459b
-    projectPath: Library\Artifacts\76\76dd228aad1890930da55a5d8f04459b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\77\7736d28254304078b7ee71d03757cf2b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\77\7736d28254304078b7ee71d03757cf2b
-    projectPath: Library\Artifacts\77\7736d28254304078b7ee71d03757cf2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\77\7772df4e172f0beec5e3ce68c64dbbce
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\77\7772df4e172f0beec5e3ce68c64dbbce
-    projectPath: Library\Artifacts\77\7772df4e172f0beec5e3ce68c64dbbce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\77\7795f29731c016ac2cb62b374f815c3c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\77\7795f29731c016ac2cb62b374f815c3c
-    projectPath: Library\Artifacts\77\7795f29731c016ac2cb62b374f815c3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\77\77e8363d2ceed17cac8dfff7d798bdeb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\77\77e8363d2ceed17cac8dfff7d798bdeb
-    projectPath: Library\Artifacts\77\77e8363d2ceed17cac8dfff7d798bdeb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7b\7bec74794765ffe088110494febae056
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\7b\7bec74794765ffe088110494febae056
-    projectPath: Library\Artifacts\7b\7bec74794765ffe088110494febae056
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7c\7c2f5bcae69bb05718685f51c467c957
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\7c\7c2f5bcae69bb05718685f51c467c957
-    projectPath: Library\Artifacts\7c\7c2f5bcae69bb05718685f51c467c957
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
-    projectPath: Library\Artifacts\7d\7d0a173c13dabfb5c50016c9fb130894
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d14acc604aabc508dfbc34d4453ade5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\7d\7d14acc604aabc508dfbc34d4453ade5
-    projectPath: Library\Artifacts\7d\7d14acc604aabc508dfbc34d4453ade5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\81\81b6da11277cfa52827aa29c45a4fe37
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\81\81b6da11277cfa52827aa29c45a4fe37
-    projectPath: Library\Artifacts\81\81b6da11277cfa52827aa29c45a4fe37
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\81\81bce9ec249aed5edc8bc747d37645b9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\81\81bce9ec249aed5edc8bc747d37645b9
-    projectPath: Library\Artifacts\81\81bce9ec249aed5edc8bc747d37645b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\8266adf541498ede020b0a2e348ef4b6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\82\8266adf541498ede020b0a2e348ef4b6
-    projectPath: Library\Artifacts\82\8266adf541498ede020b0a2e348ef4b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\82cec99b73a19056dc3c758690f23686
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\82\82cec99b73a19056dc3c758690f23686
-    projectPath: Library\Artifacts\82\82cec99b73a19056dc3c758690f23686
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\8402af0599fccb9b3cadc601462d0e5a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\84\8402af0599fccb9b3cadc601462d0e5a
-    projectPath: Library\Artifacts\84\8402af0599fccb9b3cadc601462d0e5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\86a0e2d40a66c18b7b9932b76040373f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\86\86a0e2d40a66c18b7b9932b76040373f
-    projectPath: Library\Artifacts\86\86a0e2d40a66c18b7b9932b76040373f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\86ad14a9e4c4acd03ca22919a8ad52fc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\86\86ad14a9e4c4acd03ca22919a8ad52fc
-    projectPath: Library\Artifacts\86\86ad14a9e4c4acd03ca22919a8ad52fc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\86cbacfe26d612af6bc745bd1d43c599
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\86\86cbacfe26d612af6bc745bd1d43c599
-    projectPath: Library\Artifacts\86\86cbacfe26d612af6bc745bd1d43c599
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\86\86d04963b307a4bff86c1264fab137b6
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\86\86d04963b307a4bff86c1264fab137b6
     projectPath: Library\Artifacts\86\86d04963b307a4bff86c1264fab137b6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\86\86dc5d91624ad84657870599d55a238f
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\86\86dc5d91624ad84657870599d55a238f
     projectPath: Library\Artifacts\86\86dc5d91624ad84657870599d55a238f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\87\87865f9fb0487111bc919993a0386114
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\87\87865f9fb0487111bc919993a0386114
-    projectPath: Library\Artifacts\87\87865f9fb0487111bc919993a0386114
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\880dfaa5ce615f469034217ea1fecdd8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\88\880dfaa5ce615f469034217ea1fecdd8
-    projectPath: Library\Artifacts\88\880dfaa5ce615f469034217ea1fecdd8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\89\8973a1bd0fe81e1a9e5400b1d9106cfb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\89\8973a1bd0fe81e1a9e5400b1d9106cfb
-    projectPath: Library\Artifacts\89\8973a1bd0fe81e1a9e5400b1d9106cfb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\89\897dab3aa19ab847edb360f422893d01
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\89\897dab3aa19ab847edb360f422893d01
-    projectPath: Library\Artifacts\89\897dab3aa19ab847edb360f422893d01
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\89\89d640eb68eab91faa32dbe52c53d4ef
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\89\89d640eb68eab91faa32dbe52c53d4ef
-    projectPath: Library\Artifacts\89\89d640eb68eab91faa32dbe52c53d4ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8a\8a0888a156add5e6625222bb3e52bf57
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8a\8a0888a156add5e6625222bb3e52bf57
-    projectPath: Library\Artifacts\8a\8a0888a156add5e6625222bb3e52bf57
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8d\8d6288504b6cff29cffd168cee041ddc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8d\8d6288504b6cff29cffd168cee041ddc
-    projectPath: Library\Artifacts\8d\8d6288504b6cff29cffd168cee041ddc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
-    projectPath: Library\Artifacts\8e\8e19bd3375a5c8521d184f00c9426c43
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\91\918573b283910599893fcfaeb770d05d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\91\918573b283910599893fcfaeb770d05d
-    projectPath: Library\Artifacts\91\918573b283910599893fcfaeb770d05d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\9202a7e907238fef8e7006e60f27122b
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\92\9202a7e907238fef8e7006e60f27122b
     projectPath: Library\Artifacts\92\9202a7e907238fef8e7006e60f27122b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\92\921d57db8529cd35e5f1dc4bc6c96afb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\92\921d57db8529cd35e5f1dc4bc6c96afb
-    projectPath: Library\Artifacts\92\921d57db8529cd35e5f1dc4bc6c96afb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\93\936cf7d3d5344139bbdde80dc987da61
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\93\936cf7d3d5344139bbdde80dc987da61
-    projectPath: Library\Artifacts\93\936cf7d3d5344139bbdde80dc987da61
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\95\95b5629d6f29190f19fba64bd70a51aa
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\95\95b5629d6f29190f19fba64bd70a51aa
-    projectPath: Library\Artifacts\95\95b5629d6f29190f19fba64bd70a51aa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\96ce1072a3b8b78bfca6b667831c1646
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\96\96ce1072a3b8b78bfca6b667831c1646
-    projectPath: Library\Artifacts\96\96ce1072a3b8b78bfca6b667831c1646
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\96e687e08a77293fab1781d46f1c2b7d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\96\96e687e08a77293fab1781d46f1c2b7d
-    projectPath: Library\Artifacts\96\96e687e08a77293fab1781d46f1c2b7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\97\9777a98a50e35b57df3aaa657fd9584f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\97\9777a98a50e35b57df3aaa657fd9584f
-    projectPath: Library\Artifacts\97\9777a98a50e35b57df3aaa657fd9584f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\99\99ed36c9713d1cb7193758598be23667
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\99\99ed36c9713d1cb7193758598be23667
-    projectPath: Library\Artifacts\99\99ed36c9713d1cb7193758598be23667
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9c\9cfff94407dce17c3b9b70db4b20248a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9c\9cfff94407dce17c3b9b70db4b20248a
-    projectPath: Library\Artifacts\9c\9cfff94407dce17c3b9b70db4b20248a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9e\9e0b3f2c5c6d540c8beeaf304dcd0d15
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9e\9e0b3f2c5c6d540c8beeaf304dcd0d15
-    projectPath: Library\Artifacts\9e\9e0b3f2c5c6d540c8beeaf304dcd0d15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9e\9eaf228985fd37aff8fc1d1c9cce61e1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9e\9eaf228985fd37aff8fc1d1c9cce61e1
-    projectPath: Library\Artifacts\9e\9eaf228985fd37aff8fc1d1c9cce61e1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9f\9f4f1d38ed6b1dc15b011e74602e6fe9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9f\9f4f1d38ed6b1dc15b011e74602e6fe9
-    projectPath: Library\Artifacts\9f\9f4f1d38ed6b1dc15b011e74602e6fe9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
+    projectPath: Library\Artifacts\92\92921cc8b42e6da6adaa1753bcbb794b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1736,347 +236,53 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\9f\9f6a1b76784031dc55d7156659f74dac
     projectPath: Library\Artifacts\9f\9f6a1b76784031dc55d7156659f74dac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1eccc477b485c164b369015e3323009
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a1\a1eccc477b485c164b369015e3323009
-    projectPath: Library\Artifacts\a1\a1eccc477b485c164b369015e3323009
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a2\a27fb3c1ff9aaa7ac70c28007410a15f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a2\a27fb3c1ff9aaa7ac70c28007410a15f
-    projectPath: Library\Artifacts\a2\a27fb3c1ff9aaa7ac70c28007410a15f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a4\a4701844c45810e180f5fd3b1c700091
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a4\a4701844c45810e180f5fd3b1c700091
-    projectPath: Library\Artifacts\a4\a4701844c45810e180f5fd3b1c700091
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a4\a4f07c6002b78c548d759f8499cf6d05
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a4\a4f07c6002b78c548d759f8499cf6d05
-    projectPath: Library\Artifacts\a4\a4f07c6002b78c548d759f8499cf6d05
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a5\a5b821ab9b6ab58e6fe7265ddc86d492
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a5\a5b821ab9b6ab58e6fe7265ddc86d492
     projectPath: Library\Artifacts\a5\a5b821ab9b6ab58e6fe7265ddc86d492
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
-    projectPath: Library\Artifacts\a6\a644e482f0bc61aafece47893577eede
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a6\a657b22f5858aa56c49a41577191f4eb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a6\a657b22f5858aa56c49a41577191f4eb
-    projectPath: Library\Artifacts\a6\a657b22f5858aa56c49a41577191f4eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a7\a7e7cedc6cb42889767857183bfd85a9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a7\a7e7cedc6cb42889767857183bfd85a9
-    projectPath: Library\Artifacts\a7\a7e7cedc6cb42889767857183bfd85a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a8\a81cf356b352e41b702aabe97ad4fbeb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a8\a81cf356b352e41b702aabe97ad4fbeb
-    projectPath: Library\Artifacts\a8\a81cf356b352e41b702aabe97ad4fbeb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a9\a95e7274d026c641f6584d444c864a09
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a9\a95e7274d026c641f6584d444c864a09
-    projectPath: Library\Artifacts\a9\a95e7274d026c641f6584d444c864a09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
-    projectPath: Library\Artifacts\a9\a974088df477204013dc01a1a2bd6e37
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ab\ab3b67bb7650f33a95ec418d14a3a7ae
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ab\ab3b67bb7650f33a95ec418d14a3a7ae
-    projectPath: Library\Artifacts\ab\ab3b67bb7650f33a95ec418d14a3a7ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ab\aba226ed38864aabae65af6f95ac657c
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ab\aba226ed38864aabae65af6f95ac657c
-    projectPath: Library\Artifacts\ab\aba226ed38864aabae65af6f95ac657c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ab\abd32f07fce7e3dba3581e0b546f1053
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ab\abd32f07fce7e3dba3581e0b546f1053
-    projectPath: Library\Artifacts\ab\abd32f07fce7e3dba3581e0b546f1053
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ad\ad2bd7c1175fc670fc9c170ab0eeac7d
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ad\ad2bd7c1175fc670fc9c170ab0eeac7d
     projectPath: Library\Artifacts\ad\ad2bd7c1175fc670fc9c170ab0eeac7d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ad\ade0d82515cd1b60c2c2e386577df47f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ad\ade0d82515cd1b60c2c2e386577df47f
-    projectPath: Library\Artifacts\ad\ade0d82515cd1b60c2c2e386577df47f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ae\ae5f17dcee4d238874bc618f45286483
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ae\ae5f17dcee4d238874bc618f45286483
     projectPath: Library\Artifacts\ae\ae5f17dcee4d238874bc618f45286483
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\af\af677dc46eeecc1ad78a941eb0b37e8e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\af\af677dc46eeecc1ad78a941eb0b37e8e
-    projectPath: Library\Artifacts\af\af677dc46eeecc1ad78a941eb0b37e8e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b0\b0822ebaf2b02598620c5720724706b5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b0\b0822ebaf2b02598620c5720724706b5
-    projectPath: Library\Artifacts\b0\b0822ebaf2b02598620c5720724706b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b1\b17b531a1f1f912fbc144853ea13a48a
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b1\b17b531a1f1f912fbc144853ea13a48a
     projectPath: Library\Artifacts\b1\b17b531a1f1f912fbc144853ea13a48a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b2\b2623dae473dc07bbc5df10df144b001
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b2\b2623dae473dc07bbc5df10df144b001
-    projectPath: Library\Artifacts\b2\b2623dae473dc07bbc5df10df144b001
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bce93486c4447f7488ebed893a159bed
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bc\bce93486c4447f7488ebed893a159bed
+    projectPath: Library\Artifacts\bc\bce93486c4447f7488ebed893a159bed
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b2\b2f2890768788eababc4c6d4c4d75287
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b2\b2f2890768788eababc4c6d4c4d75287
-    projectPath: Library\Artifacts\b2\b2f2890768788eababc4c6d4c4d75287
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
-    projectPath: Library\Artifacts\b4\b443e860e9564e04a5f55876753d36a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b4\b4a8a165f4b5795418e8405134cbaf1f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b4\b4a8a165f4b5795418e8405134cbaf1f
-    projectPath: Library\Artifacts\b4\b4a8a165f4b5795418e8405134cbaf1f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b4\b4b38725d75a271fb34d2103ac54bd5d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b4\b4b38725d75a271fb34d2103ac54bd5d
-    projectPath: Library\Artifacts\b4\b4b38725d75a271fb34d2103ac54bd5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b5\b5674f531c779edd95ad35a77d2d400d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b5\b5674f531c779edd95ad35a77d2d400d
-    projectPath: Library\Artifacts\b5\b5674f531c779edd95ad35a77d2d400d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b5\b5a67d9202fbb514c935d9a35c56bd94
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b5\b5a67d9202fbb514c935d9a35c56bd94
-    projectPath: Library\Artifacts\b5\b5a67d9202fbb514c935d9a35c56bd94
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b5\b5cee26f289fce8cdf28fef7b77e9cfd
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b5\b5cee26f289fce8cdf28fef7b77e9cfd
-    projectPath: Library\Artifacts\b5\b5cee26f289fce8cdf28fef7b77e9cfd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b6\b6aec930304fc881729ea948c6b69f3f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b6\b6aec930304fc881729ea948c6b69f3f
-    projectPath: Library\Artifacts\b6\b6aec930304fc881729ea948c6b69f3f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b79cbb22340dda8701308f199c066261
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b7\b79cbb22340dda8701308f199c066261
-    projectPath: Library\Artifacts\b7\b79cbb22340dda8701308f199c066261
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b7b757c59f3c6cc3dec343ca6e65784d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b7\b7b757c59f3c6cc3dec343ca6e65784d
-    projectPath: Library\Artifacts\b7\b7b757c59f3c6cc3dec343ca6e65784d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
-    projectPath: Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bb\bbbae45ad32c604347c8c9266b89f2f1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bb\bbbae45ad32c604347c8c9266b89f2f1
-    projectPath: Library\Artifacts\bb\bbbae45ad32c604347c8c9266b89f2f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bd329925a151bb8fea685610703a53ee
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bd\bd329925a151bb8fea685610703a53ee
-    projectPath: Library\Artifacts\bd\bd329925a151bb8fea685610703a53ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
-    projectPath: Library\Artifacts\bd\bdb6e77b99a32c6a1afec44e41c00aaf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bf\bfa9c9d4d3627043dcd5e8037c801929
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bf\bfa9c9d4d3627043dcd5e8037c801929
     projectPath: Library\Artifacts\bf\bfa9c9d4d3627043dcd5e8037c801929
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bf\bfeaa81c6a3b409d140a87875256fba2
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\bf\bfeaa81c6a3b409d140a87875256fba2
-    projectPath: Library\Artifacts\bf\bfeaa81c6a3b409d140a87875256fba2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c0\c0350c879766b5591ca86bca3f0dda9d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c0\c0350c879766b5591ca86bca3f0dda9d
-    projectPath: Library\Artifacts\c0\c0350c879766b5591ca86bca3f0dda9d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c1\c1f16e155763a31e479b3f7fdf089cd6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c1\c1f16e155763a31e479b3f7fdf089cd6
-    projectPath: Library\Artifacts\c1\c1f16e155763a31e479b3f7fdf089cd6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2c3b32b16bc76a1a60dfddade230527
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c2\c2c3b32b16bc76a1a60dfddade230527
-    projectPath: Library\Artifacts\c2\c2c3b32b16bc76a1a60dfddade230527
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c316a093162f203783142d7cd32777e7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c3\c316a093162f203783142d7cd32777e7
-    projectPath: Library\Artifacts\c3\c316a093162f203783142d7cd32777e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c3d1b466d8eec0634025f9454aaf7222
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c3\c3d1b466d8eec0634025f9454aaf7222
-    projectPath: Library\Artifacts\c3\c3d1b466d8eec0634025f9454aaf7222
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c3f2923a68ba9dc6ea48f55406f28263
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c3\c3f2923a68ba9dc6ea48f55406f28263
-    projectPath: Library\Artifacts\c3\c3f2923a68ba9dc6ea48f55406f28263
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c4\c4480589f5271f2488c29655a7129e79
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c4\c4480589f5271f2488c29655a7129e79
-    projectPath: Library\Artifacts\c4\c4480589f5271f2488c29655a7129e79
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c4\c4f9d0cc1b71f3bd24cefded3ef0507d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c4\c4f9d0cc1b71f3bd24cefded3ef0507d
-    projectPath: Library\Artifacts\c4\c4f9d0cc1b71f3bd24cefded3ef0507d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c7\c7fcba2afb15a404c0a217c6334356f4
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c7\c7fcba2afb15a404c0a217c6334356f4
     projectPath: Library\Artifacts\c7\c7fcba2afb15a404c0a217c6334356f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
-    projectPath: Library\Artifacts\c9\c9ec059e6b28af418b68692ca78d4ccc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cb\cbd6bc757aeaa753a68e8482e4770d06
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cb\cbd6bc757aeaa753a68e8482e4770d06
-    projectPath: Library\Artifacts\cb\cbd6bc757aeaa753a68e8482e4770d06
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
-    projectPath: Library\Artifacts\cc\ccbfe53e37fdecfed0af86e47df421b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cd\cd9ecaf480bbd822a995ccd6e99d826a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cd\cd9ecaf480bbd822a995ccd6e99d826a
-    projectPath: Library\Artifacts\cd\cd9ecaf480bbd822a995ccd6e99d826a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ce\cedc9b89ddf6f29d2d6ecc2b4b6e170f
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ce\cedc9b89ddf6f29d2d6ecc2b4b6e170f
-    projectPath: Library\Artifacts\ce\cedc9b89ddf6f29d2d6ecc2b4b6e170f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf38d30791c1f29a0702535997bcb2cf
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cf\cf38d30791c1f29a0702535997bcb2cf
-    projectPath: Library\Artifacts\cf\cf38d30791c1f29a0702535997bcb2cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cfd1d901c5be6c9275b299935a9e47bd
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\cf\cfd1d901c5be6c9275b299935a9e47bd
-    projectPath: Library\Artifacts\cf\cfd1d901c5be6c9275b299935a9e47bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0ee8feb761240440ebbced34dd2a2da
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d0\d0ee8feb761240440ebbced34dd2a2da
-    projectPath: Library\Artifacts\d0\d0ee8feb761240440ebbced34dd2a2da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d1\d10837539dbb70386088761674c3f2e8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d1\d10837539dbb70386088761674c3f2e8
-    projectPath: Library\Artifacts\d1\d10837539dbb70386088761674c3f2e8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d1\d117e7e163aa5c12bb8dd1643c1d8a20
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d1\d117e7e163aa5c12bb8dd1643c1d8a20
-    projectPath: Library\Artifacts\d1\d117e7e163aa5c12bb8dd1643c1d8a20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d1\d1ca39a739568c719ff625f702bbc015
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d1\d1ca39a739568c719ff625f702bbc015
-    projectPath: Library\Artifacts\d1\d1ca39a739568c719ff625f702bbc015
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c9bfb7d9d8bad5796bbfa22a099186af
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\c9\c9bfb7d9d8bad5796bbfa22a099186af
+    projectPath: Library\Artifacts\c9\c9bfb7d9d8bad5796bbfa22a099186af
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2084,119 +290,11 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d2\d29ea47a2db8c21a96e1e2270d55edc3
     projectPath: Library\Artifacts\d2\d29ea47a2db8c21a96e1e2270d55edc3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4aef90d31f439270f5dd4c3c0d3a5b8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d4\d4aef90d31f439270f5dd4c3c0d3a5b8
-    projectPath: Library\Artifacts\d4\d4aef90d31f439270f5dd4c3c0d3a5b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d5\d56461e3b5e93ce2f0fbd9a49f4f6560
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d5\d56461e3b5e93ce2f0fbd9a49f4f6560
-    projectPath: Library\Artifacts\d5\d56461e3b5e93ce2f0fbd9a49f4f6560
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
-    projectPath: Library\Artifacts\d6\d63702338907b445e37ed74fec2795a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d7\d733a81c21917982852b0fda617dc1db
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d7\d733a81c21917982852b0fda617dc1db
-    projectPath: Library\Artifacts\d7\d733a81c21917982852b0fda617dc1db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d7\d7b49f52c01dabc0d69a157c51435d4d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d7\d7b49f52c01dabc0d69a157c51435d4d
-    projectPath: Library\Artifacts\d7\d7b49f52c01dabc0d69a157c51435d4d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d8\d8dc3577995a0e0d7c98588427a15771
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d8\d8dc3577995a0e0d7c98588427a15771
-    projectPath: Library\Artifacts\d8\d8dc3577995a0e0d7c98588427a15771
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d8\d8f9f47be2ab5ad16e22bafd57df9211
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d8\d8f9f47be2ab5ad16e22bafd57df9211
-    projectPath: Library\Artifacts\d8\d8f9f47be2ab5ad16e22bafd57df9211
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\da\da1d0420529cabd00d793a49a599cae5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\da\da1d0420529cabd00d793a49a599cae5
-    projectPath: Library\Artifacts\da\da1d0420529cabd00d793a49a599cae5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\db\db553111e1de9ea8500a2cbef3bdfaa6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\db\db553111e1de9ea8500a2cbef3bdfaa6
-    projectPath: Library\Artifacts\db\db553111e1de9ea8500a2cbef3bdfaa6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc3f03c3ff6002240c491636fbb72d03
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\dc\dc3f03c3ff6002240c491636fbb72d03
-    projectPath: Library\Artifacts\dc\dc3f03c3ff6002240c491636fbb72d03
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc80eeba168899f0159ca046066f07ca
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\dc\dc80eeba168899f0159ca046066f07ca
-    projectPath: Library\Artifacts\dc\dc80eeba168899f0159ca046066f07ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dcb631f0e354f172958f0aacb6d1b5b5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\dc\dcb631f0e354f172958f0aacb6d1b5b5
-    projectPath: Library\Artifacts\dc\dcb631f0e354f172958f0aacb6d1b5b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\de\dee8939f5bf792c821094e1ce37ec6d0
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\de\dee8939f5bf792c821094e1ce37ec6d0
-    projectPath: Library\Artifacts\de\dee8939f5bf792c821094e1ce37ec6d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e1\e168aca8dd1bb55ab444fd30233166e1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e1\e168aca8dd1bb55ab444fd30233166e1
-    projectPath: Library\Artifacts\e1\e168aca8dd1bb55ab444fd30233166e1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e1\e1857d57f7022ba55b0c4d719da7ffe6
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e1\e1857d57f7022ba55b0c4d719da7ffe6
-    projectPath: Library\Artifacts\e1\e1857d57f7022ba55b0c4d719da7ffe6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e2\e2da8720def935eec2d4f49fb072a97d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e2\e2da8720def935eec2d4f49fb072a97d
-    projectPath: Library\Artifacts\e2\e2da8720def935eec2d4f49fb072a97d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    projectPath: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e3\e3ec9fdb80c0f9310c9f4809560d2891
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e3\e3ec9fdb80c0f9310c9f4809560d2891
-    projectPath: Library\Artifacts\e3\e3ec9fdb80c0f9310c9f4809560d2891
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e4\e43abded9b0e17011a6283a557390ad8
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e4\e43abded9b0e17011a6283a557390ad8
-    projectPath: Library\Artifacts\e4\e43abded9b0e17011a6283a557390ad8
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d6\d654a43e8f929607e0bcfdfc361d74c5
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\d6\d654a43e8f929607e0bcfdfc361d74c5
+    projectPath: Library\Artifacts\d6\d654a43e8f929607e0bcfdfc361d74c5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2204,83 +302,23 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e4\e4b03cc30b16b1a75e1d36a9ebf61c89
     projectPath: Library\Artifacts\e4\e4b03cc30b16b1a75e1d36a9ebf61c89
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e4\e4f1ab2270dba3f16571f8d357cf8c78
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e4\e4f1ab2270dba3f16571f8d357cf8c78
-    projectPath: Library\Artifacts\e4\e4f1ab2270dba3f16571f8d357cf8c78
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e6\e613ff03896a07fc52782a245d291a02
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e6\e613ff03896a07fc52782a245d291a02
-    projectPath: Library\Artifacts\e6\e613ff03896a07fc52782a245d291a02
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e9\e93085c9b889f7f09500033400cc97d9
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\e9\e93085c9b889f7f09500033400cc97d9
-    projectPath: Library\Artifacts\e9\e93085c9b889f7f09500033400cc97d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ea\eaccf6cf9acddff9269a1ece41d5a4c2
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ea\eaccf6cf9acddff9269a1ece41d5a4c2
-    projectPath: Library\Artifacts\ea\eaccf6cf9acddff9269a1ece41d5a4c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ea\eacdb2dfd50409471fd3ca15ff00a4c7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ea\eacdb2dfd50409471fd3ca15ff00a4c7
-    projectPath: Library\Artifacts\ea\eacdb2dfd50409471fd3ca15ff00a4c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\eb\eb18d2ad4328965a973921fdcca51eec
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\eb\eb18d2ad4328965a973921fdcca51eec
-    projectPath: Library\Artifacts\eb\eb18d2ad4328965a973921fdcca51eec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ec\ecf78b423ab78dc9f13215d1a0b3ef9a
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ec\ecf78b423ab78dc9f13215d1a0b3ef9a
-    projectPath: Library\Artifacts\ec\ecf78b423ab78dc9f13215d1a0b3ef9a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ed\edcee450bf495eea79a5da94974f8c47
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ed\edcee450bf495eea79a5da94974f8c47
     projectPath: Library\Artifacts\ed\edcee450bf495eea79a5da94974f8c47
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ed\edd704ec6c8cdcab2b3ab659bbb0c952
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ed\edd704ec6c8cdcab2b3ab659bbb0c952
-    projectPath: Library\Artifacts\ed\edd704ec6c8cdcab2b3ab659bbb0c952
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
+    projectPath: Library\Artifacts\f0\f089d6c8dde6d9b7b85e79f9ab0cfd9a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee906f9724bda925b5cbc03dda83bdf7
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ee\ee906f9724bda925b5cbc03dda83bdf7
-    projectPath: Library\Artifacts\ee\ee906f9724bda925b5cbc03dda83bdf7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef769609bcaca70c9973b69ee0bd08be
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ef\ef769609bcaca70c9973b69ee0bd08be
-    projectPath: Library\Artifacts\ef\ef769609bcaca70c9973b69ee0bd08be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f1\f1d8fdb348fbab05e71e66ce385d88e5
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f1\f1d8fdb348fbab05e71e66ce385d88e5
-    projectPath: Library\Artifacts\f1\f1d8fdb348fbab05e71e66ce385d88e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f2\f2801f2af0ced64252c6de3f8b1b811d
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f2\f2801f2af0ced64252c6de3f8b1b811d
-    projectPath: Library\Artifacts\f2\f2801f2af0ced64252c6de3f8b1b811d
+  - path: Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
+    projectPath: Library\Artifacts\f3\f36b2fa5d04a00a7f3c031d229919a37
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2288,83 +326,23 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f6\f6b20b30e48a560321cf0ede0f900c3a
     projectPath: Library\Artifacts\f6\f6b20b30e48a560321cf0ede0f900c3a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f7\f724ca45ecce052bb6d6ca0e4e7138dc
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f7\f724ca45ecce052bb6d6ca0e4e7138dc
-    projectPath: Library\Artifacts\f7\f724ca45ecce052bb6d6ca0e4e7138dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f8\f8690be17854a97e5231fc811efa4f33
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f8\f8690be17854a97e5231fc811efa4f33
-    projectPath: Library\Artifacts\f8\f8690be17854a97e5231fc811efa4f33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f8\f8c1b004af082ee30bbbb2a92f12fc5d
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\f8\f8c1b004af082ee30bbbb2a92f12fc5d
     projectPath: Library\Artifacts\f8\f8c1b004af082ee30bbbb2a92f12fc5d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fa\fa0a46c2a1d537955b71edb35f38a4cb
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\fa\fa0a46c2a1d537955b71edb35f38a4cb
-    projectPath: Library\Artifacts\fa\fa0a46c2a1d537955b71edb35f38a4cb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fb\fb7ef12ff87ce753d5659f385e78bc69
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\fb\fb7ef12ff87ce753d5659f385e78bc69
     projectPath: Library\Artifacts\fb\fb7ef12ff87ce753d5659f385e78bc69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fc\fce6d1023b2413839da0da541d3a5d3b
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\fc\fce6d1023b2413839da0da541d3a5d3b
-    projectPath: Library\Artifacts\fc\fce6d1023b2413839da0da541d3a5d3b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fd\fd7086e61d545aa87c85d233ae082068
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\fd\fd7086e61d545aa87c85d233ae082068
-    projectPath: Library\Artifacts\fd\fd7086e61d545aa87c85d233ae082068
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fd\fdcc2b69b5f766c0f651e63bff397ab1
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\fd\fdcc2b69b5f766c0f651e63bff397ab1
-    projectPath: Library\Artifacts\fd\fdcc2b69b5f766c0f651e63bff397ab1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ff0867b9f9d9a2401c43bf7d9986be51
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ff\ff0867b9f9d9a2401c43bf7d9986be51
-    projectPath: Library\Artifacts\ff\ff0867b9f9d9a2401c43bf7d9986be51
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ff681616072bce0c3b1b89535319665e
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\Artifacts\ff\ff681616072bce0c3b1b89535319665e
-    projectPath: Library\Artifacts\ff\ff681616072bce0c3b1b89535319665e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\EditorInstance.json
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\expandedItems
-    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2404,186 +382,42 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\2\2d3e04cbd5022ef0ff8b4ab43a6f5b95.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\2\2d3e04cbd5022ef0ff8b4ab43a6f5b95.bin
-    projectPath: Library\ShaderCache\2\2d3e04cbd5022ef0ff8b4ab43a6f5b95.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    projectPath: Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6fe92f75b844e600cbe46184f089272a.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\6\6fe92f75b844e600cbe46184f089272a.bin
-    projectPath: Library\ShaderCache\6\6fe92f75b844e600cbe46184f089272a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\708d614724978793c908d52f4ddda57b.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\7\708d614724978793c908d52f4ddda57b.bin
-    projectPath: Library\ShaderCache\7\708d614724978793c908d52f4ddda57b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9379cdbbae3d6cee3758601bc85cd40e.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\9\9379cdbbae3d6cee3758601bc85cd40e.bin
-    projectPath: Library\ShaderCache\9\9379cdbbae3d6cee3758601bc85cd40e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    projectPath: Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SpriteAtlasDatabase.asset
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\SpriteAtlasDatabase.asset
-    projectPath: Library\SpriteAtlasDatabase.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\PrefabStageHierarchy\0d\0d24d318398bbdd4f25c02de7b9df6cf.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\0d\0d24d318398bbdd4f25c02de7b9df6cf.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\0d\0d24d318398bbdd4f25c02de7b9df6cf.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\28\28a777459c3162b7752af335a5a96424.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\28\28a777459c3162b7752af335a5a96424.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\28\28a777459c3162b7752af335a5a96424.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\64\644657353348fd00d3e04f62da01528d.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\64\644657353348fd00d3e04f62da01528d.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\64\644657353348fd00d3e04f62da01528d.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\80\80d9fd7e9360b6758964fca0eb14c36e.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\80\80d9fd7e9360b6758964fca0eb14c36e.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\80\80d9fd7e9360b6758964fca0eb14c36e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\85\85877fd757cd9ee65989eaa67019d2db.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\85\85877fd757cd9ee65989eaa67019d2db.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\85\85877fd757cd9ee65989eaa67019d2db.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\bd\bdff18341fa724f12e26c0b09f5850a1.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\bd\bdff18341fa724f12e26c0b09f5850a1.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\bd\bdff18341fa724f12e26c0b09f5850a1.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\f2\f28c481501bbeb01d54c15ad533cab6a.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\PrefabStageHierarchy\f2\f28c481501bbeb01d54c15ad533cab6a.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\f2\f28c481501bbeb01d54c15ad533cab6a.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\5f\5ffcd772d33dc7eeda4690d0ed15b9ee.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\5f\5ffcd772d33dc7eeda4690d0ed15b9ee.json
-    projectPath: Library\StateCache\SceneView\5f\5ffcd772d33dc7eeda4690d0ed15b9ee.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\7d\7d1af64b80c885fda8ba24c5665f9a46.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\7d\7d1af64b80c885fda8ba24c5665f9a46.json
-    projectPath: Library\StateCache\SceneView\7d\7d1af64b80c885fda8ba24c5665f9a46.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\9a\9a1e736ddd8612769f0339a88310f668.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\9a\9a1e736ddd8612769f0339a88310f668.json
-    projectPath: Library\StateCache\SceneView\9a\9a1e736ddd8612769f0339a88310f668.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\bb\bbf9d97506fd7abc14acc984316f0aea.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\bb\bbf9d97506fd7abc14acc984316f0aea.json
-    projectPath: Library\StateCache\SceneView\bb\bbf9d97506fd7abc14acc984316f0aea.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\e2\e27747502c82c61bd2e1bc470888ca50.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\e2\e27747502c82c61bd2e1bc470888ca50.json
-    projectPath: Library\StateCache\SceneView\e2\e27747502c82c61bd2e1bc470888ca50.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\f3\f3472ce225f7ad7d97f83419bffdb60e.json
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Library\StateCache\SceneView\f3\f3472ce225f7ad7d97f83419bffdb60e.json
-    projectPath: Library\StateCache\SceneView\f3\f3472ce225f7ad7d97f83419bffdb60e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Logs\AssetImportWorker0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -2600,29 +434,35 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe10.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe11.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe12.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe12.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe13.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe13.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe14.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe14.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2636,65 +476,47 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe8.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\CompilationLog.txt
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2702,11 +524,29 @@ MonoBehaviour:
     fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6ed76de466d956d408fc32d6684c16bb
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-6ed76de466d956d408fc32d6684c16bb
+    projectPath: Temp\UnityTempFile-6ed76de466d956d408fc32d6684c16bb
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7be9f383759cae649bc7ab0df770a561
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-7be9f383759cae649bc7ab0df770a561
+    projectPath: Temp\UnityTempFile-7be9f383759cae649bc7ab0df770a561
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d0589728b26a357469f23e2c4ceca578
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\UnityTempFile-d0589728b26a357469f23e2c4ceca578
+    projectPath: Temp\UnityTempFile-d0589728b26a357469f23e2c4ceca578
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\Ashank\Unity Projects\Red Flags\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

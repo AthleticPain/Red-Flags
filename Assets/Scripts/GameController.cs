@@ -74,7 +74,7 @@ public class GameController : MonoBehaviour
         boardController.SetActivePawn(activePawn);
         activePawn.EnableRemoveRedFlagButton();
         Debug.Log("It is Player " + (playerTurn + 1) + " turn. Round " + round + "\nPlayer points: " + activePawn.GetPoints());
-        if (round >= numberOfRoundsInGame)
+        if (round >= numberOfRoundsInGame || areAllPawnsDisabled())
         {
             EndGame();
         }
@@ -118,32 +118,52 @@ public class GameController : MonoBehaviour
         return activePawn;
     }
 
+    private bool areAllPawnsDisabled()
+    {
+        foreach(Pawn pawn in pawnsInGame)
+        {
+            if (pawn.IsPawnDisabled() = false)
+                return false;
+        }
+        return true;
+    }
+
     private void EndGame()
     {
         Pawn winner;
         int winnerIndex = 0;
         int leastRedFlags = 8;
         int mostPoints = 0;
-        for(int i=0; i < numberOfPlayers; i++)
+
+        if(areAllPawnsDisabled())
         {
-            Debug.Log("Checking for Player " + (i + 1) + "\nRed Flags: "+pawnsInGame[i].GetRedFlags()+"\nPoints: "+pawnsInGame[i].GetPoints());
-            if (pawnsInGame[i].GetRedFlags() < leastRedFlags)
-            {
-                winner = pawnsInGame[i];
-                leastRedFlags = pawnsInGame[i].GetRedFlags();
-                mostPoints = pawnsInGame[i].GetPoints();
-                winnerIndex = i;
-            }
-            else if(pawnsInGame[i].GetRedFlags() == leastRedFlags && pawnsInGame[i].GetPoints() > mostPoints)
-            {
-                winner = pawnsInGame[i];
-                leastRedFlags = pawnsInGame[i].GetRedFlags();
-                mostPoints = pawnsInGame[i].GetPoints();
-                winnerIndex = i;
-            }
+            Debug.Log("All players lose");
+            gameEndCanvas.SetGameEndText;
+            gameEndCanvas.EnableGameEndCanvas();
         }
-        gameEndCanvas.SetGameEndText(winnerIndex + 1);
-        gameEndCanvas.EnableGameEndCanvas();
-        Debug.Log("Game Over\nWinner is Player " + (winnerIndex + 1));
+        else
+        {
+            for (int i = 0; i < numberOfPlayers; i++)
+            {
+                Debug.Log("Checking for Player " + (i + 1) + "\nRed Flags: " + pawnsInGame[i].GetRedFlags() + "\nPoints: " + pawnsInGame[i].GetPoints());
+                if (pawnsInGame[i].GetRedFlags() < leastRedFlags)
+                {
+                    winner = pawnsInGame[i];
+                    leastRedFlags = pawnsInGame[i].GetRedFlags();
+                    mostPoints = pawnsInGame[i].GetPoints();
+                    winnerIndex = i;
+                }
+                else if (pawnsInGame[i].GetRedFlags() == leastRedFlags && pawnsInGame[i].GetPoints() > mostPoints)
+                {
+                    winner = pawnsInGame[i];
+                    leastRedFlags = pawnsInGame[i].GetRedFlags();
+                    mostPoints = pawnsInGame[i].GetPoints();
+                    winnerIndex = i;
+                }
+            }
+            gameEndCanvas.SetGameEndText(winnerIndex + 1);
+            gameEndCanvas.EnableGameEndCanvas();
+            Debug.Log("Game Over\nWinner is Player " + (winnerIndex + 1));
+        }
     }
 }

@@ -9,6 +9,12 @@ public class GameEndCanvas : MonoBehaviour
         GetComponentInChildren<Text>().text = "Game Over\nWinner is Player " + winnerPlayerNumber;
     }
 
+    public void SetGameEndText()
+    {
+        GetComponentInChildren<Text>().text = "Game Over\nAll Players have lost";
+    }
+
+
     public void EnableGameEndCanvas()
     {
         gameObject.SetActive(true);
