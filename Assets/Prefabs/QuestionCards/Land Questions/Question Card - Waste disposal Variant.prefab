@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2830681838747426820
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2890209615367302883, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_Text
+      value: a) Composting
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789707, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672687718144789709, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_Name
+      value: Question Card - Waste disposal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6283857219604737011, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_Text
+      value: b) Recycling
+      objectReference: {fileID: 0}
+    - target: {fileID: 7584893896963080075, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_Text
+      value: c) Landfill
+      objectReference: {fileID: 0}
+    - target: {fileID: 8909124654324962530, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}
+      propertyPath: m_Text
+      value: You are in charge of the waste disposal at an industry you work at.
+        How would you dispose of the industrial waste?
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1537ccb27b8ac5b48b21ca9cbb1b457c, type: 3}

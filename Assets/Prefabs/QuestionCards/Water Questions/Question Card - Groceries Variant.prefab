@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2632356851218440316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 676830586748922640, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_Name
+      value: Question Card - Groceries
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.873342
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3446077
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 676830586748922646, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2200170824571309102, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_Text
+      value: b) More expensive organic food
+      objectReference: {fileID: 0}
+    - target: {fileID: 2377577055741220950, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_Text
+      value: c) Grow your own food in your backyard
+      objectReference: {fileID: 0}
+    - target: {fileID: 3611812991250920255, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_Text
+      value: Time to buy groceries. Which would you get?
+      objectReference: {fileID: 0}
+    - target: {fileID: 7034687734496282942, guid: 42a642912786d294293ff95c02dda414, type: 3}
+      propertyPath: m_Text
+      value: a) Average priced normal food
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 42a642912786d294293ff95c02dda414, type: 3}

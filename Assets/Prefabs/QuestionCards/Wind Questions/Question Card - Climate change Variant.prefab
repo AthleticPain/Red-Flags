@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6153873819644145852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2598113796481336977, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: a) Harvesting wind energy on land
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.956142
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6151322
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655935, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Name
+      value: Question Card - Climate change
+      objectReference: {fileID: 0}
+    - target: {fileID: 6568203427270968193, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: b) Building solar farms
+      objectReference: {fileID: 0}
+    - target: {fileID: 7300537575023712249, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: c) Nuclear power
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624918050478226576, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: As a climate change enthusiast, you are looking to invest in alternate
+        electricity sources. Which of the following would you invest in?
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}

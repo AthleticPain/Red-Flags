@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4415784056488065172
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2598113796481336977, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: a) Use a clothesline
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.887733
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8362962
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655929, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533503749050655935, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Name
+      value: Question Card - Drying clothes
+      objectReference: {fileID: 0}
+    - target: {fileID: 6568203427270968193, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: b) Use a dryer
+      objectReference: {fileID: 0}
+    - target: {fileID: 7300537575023712249, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: c) Use an iron on damp clothes
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624918050478226576, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
+      propertyPath: m_Text
+      value: Time to dry clothes. Whic of the following would you use?
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a2b396fd0352ab4ab410ef8d29a7722, type: 3}
