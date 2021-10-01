@@ -1783,6 +1783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game End Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 6369431984689794839, guid: c4673cb727a227e488193a8d9d53c3d1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4673cb727a227e488193a8d9d53c3d1, type: 3}
 --- !u!1001 &2026006114622380378

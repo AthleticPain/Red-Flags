@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour
 {
+    const string MAIN_MENU_SCENE_STRING_REFERENCE = "Main Menu";
 
     private void Start()
     {
@@ -19,5 +20,16 @@ public class LevelLoader : MonoBehaviour
     {
         int currentIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentIndex + 1);
+    }
+
+    public static void ReloadCurrentScene()
+    {
+        int currentIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentIndex);
+    }
+
+    public static void LoadMainMenu()
+    {
+        SceneManager.LoadScene(MAIN_MENU_SCENE_STRING_REFERENCE);
     }
 }

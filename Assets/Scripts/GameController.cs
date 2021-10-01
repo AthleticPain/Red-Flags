@@ -55,28 +55,34 @@ public class GameController : MonoBehaviour
     {
         FindObjectOfType<MainCanvas>().EnableRollButton();
         activePawn.DisableRemoveRedFlagButton();
-        playerTurn = (playerTurn+1) % pawnsInGame.Length;
-        if (playerTurn == 0)
-        {
-            round++;
-            roundInfoDisplay.SetRoundinfoText(round);
-            if (round % 2 == 0)
-            {
-                UpdateAllPlayersRedFlags();
-            }
-        }
-        activePawn = pawnsInGame[playerTurn];
-        if(activePawn.IsPawnDisabled())
-        {
-            UpdatePlayerTurn();
-            return;
-        }
-        boardController.SetActivePawn(activePawn);
-        activePawn.EnableRemoveRedFlagButton();
-        Debug.Log("It is Player " + (playerTurn + 1) + " turn. Round " + round + "\nPlayer points: " + activePawn.GetPoints());
+
         if (round >= numberOfRoundsInGame || areAllPawnsDisabled())
         {
             EndGame();
+            gameObject.SetActive(false);
+            return;
+        }
+        else
+        {
+            playerTurn = (playerTurn + 1) % pawnsInGame.Length;
+            if (playerTurn == 0)
+            {
+                round++;
+                roundInfoDisplay.SetRoundinfoText(round);
+                if (round % 2 == 0)
+                {
+                    UpdateAllPlayersRedFlags();
+                }
+            }
+            activePawn = pawnsInGame[playerTurn];
+            if (activePawn.IsPawnDisabled())
+            {
+                UpdatePlayerTurn();
+                return;
+            }
+            boardController.SetActivePawn(activePawn);
+            activePawn.EnableRemoveRedFlagButton();
+            Debug.Log("It is Player " + (playerTurn + 1) + " turn. Round " + round + "\nPlayer points: " + activePawn.GetPoints());
         }
     }
 
@@ -122,7 +128,7 @@ public class GameController : MonoBehaviour
     {
         foreach(Pawn pawn in pawnsInGame)
         {
-            if (pawn.IsPawnDisabled() = false)
+            if (pawn.IsPawnDisabled() == false)
                 return false;
         }
         return true;
@@ -138,7 +144,7 @@ public class GameController : MonoBehaviour
         if(areAllPawnsDisabled())
         {
             Debug.Log("All players lose");
-            gameEndCanvas.SetGameEndText;
+            gameEndCanvas.SetGameEndText();
             gameEndCanvas.EnableGameEndCanvas();
         }
         else

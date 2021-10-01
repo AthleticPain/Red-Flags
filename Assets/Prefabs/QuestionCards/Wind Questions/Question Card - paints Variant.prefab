@@ -21,11 +21,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7234838338375632252, guid: 4dab6be6bf72057428094db4f455131c, type: 3}
       propertyPath: m_Text
-      value: b) oil basec paints
+      value: b) oil based paints
       objectReference: {fileID: 0}
     - target: {fileID: 8325828888735801922, guid: 4dab6be6bf72057428094db4f455131c, type: 3}
       propertyPath: m_Name
-      value: Question Card - paints
+      value: Question Card - paints Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8325828888735801924, guid: 4dab6be6bf72057428094db4f455131c, type: 3}
       propertyPath: m_RootOrder
